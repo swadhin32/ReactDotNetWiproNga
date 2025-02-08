@@ -1,0 +1,10 @@
+D:\GreatLearning4\Day4\Day4Projects\staticvariabledemo\bin\Debug\staticvariabledemo.exe.config
+D:\GreatLearning4\Day4\Day4Projects\staticvariabledemo\bin\Debug\staticvariabledemo.exe
+D:\GreatLearning4\Day4\Day4Projects\staticvariabledemo\bin\Debug\staticvariabledemo.pdb
+D:\GreatLearning4\Day4\Day4Projects\staticvariabledemo\obj\Debug\staticvariabledemo.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day4\Day4Projects\staticvariabledemo\obj\Debug\staticvariabledemo.Form1.resources
+D:\GreatLearning4\Day4\Day4Projects\staticvariabledemo\obj\Debug\staticvariabledemo.Properties.Resources.resources
+D:\GreatLearning4\Day4\Day4Projects\staticvariabledemo\obj\Debug\staticvariabledemo.csproj.GenerateResource.cache
+D:\GreatLearning4\Day4\Day4Projects\staticvariabledemo\obj\Debug\staticvariabledemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day4\Day4Projects\staticvariabledemo\obj\Debug\staticvariabledemo.exe
+D:\GreatLearning4\Day4\Day4Projects\staticvariabledemo\obj\Debug\staticvariabledemo.pdb

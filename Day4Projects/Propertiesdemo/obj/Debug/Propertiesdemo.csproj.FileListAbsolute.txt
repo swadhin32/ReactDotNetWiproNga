@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day4\Day4Projects\Propertiesdemo\bin\Debug\Propertiesdemo.exe.config
+D:\GreatLearning4\Day4\Day4Projects\Propertiesdemo\bin\Debug\Propertiesdemo.exe
+D:\GreatLearning4\Day4\Day4Projects\Propertiesdemo\bin\Debug\Propertiesdemo.pdb
+D:\GreatLearning4\Day4\Day4Projects\Propertiesdemo\obj\Debug\Propertiesdemo.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day4\Day4Projects\Propertiesdemo\obj\Debug\Propertiesdemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day4\Day4Projects\Propertiesdemo\obj\Debug\Propertiesdemo.exe
+D:\GreatLearning4\Day4\Day4Projects\Propertiesdemo\obj\Debug\Propertiesdemo.pdb

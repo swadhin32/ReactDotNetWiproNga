@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning4\\Day4\\Day4Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB6A85E-2CD0-4EDF-BC42-31C67D893E8D}|Virtualfunctions\\Virtualfunctions.csproj|d:\\greatlearning4\\day4\\day4projects\\virtualfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB6A85E-2CD0-4EDF-BC42-31C67D893E8D}|Virtualfunctions\\Virtualfunctions.csproj|solutionrelative:virtualfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F937A569-71DC-48FC-82E2-EE0E418A3134}|Functionoverloading_compiletimepoly\\Functionoverloading_compiletimepoly.csproj|d:\\greatlearning4\\day4\\day4projects\\functionoverloading_compiletimepoly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F937A569-71DC-48FC-82E2-EE0E418A3134}|Functionoverloading_compiletimepoly\\Functionoverloading_compiletimepoly.csproj|solutionrelative:functionoverloading_compiletimepoly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D12C4CB-2825-47B3-82B1-16E907130FE4}|Abstractclassandinterfacedemo\\Abstractclassandinterfacedemo.csproj|d:\\greatlearning4\\day4\\day4projects\\abstractclassandinterfacedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D12C4CB-2825-47B3-82B1-16E907130FE4}|Abstractclassandinterfacedemo\\Abstractclassandinterfacedemo.csproj|solutionrelative:abstractclassandinterfacedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D12C4CB-2825-47B3-82B1-16E907130FE4}|Abstractclassandinterfacedemo\\Abstractclassandinterfacedemo.csproj|d:\\greatlearning4\\day4\\day4projects\\abstractclassandinterfacedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D12C4CB-2825-47B3-82B1-16E907130FE4}|Abstractclassandinterfacedemo\\Abstractclassandinterfacedemo.csproj|solutionrelative:abstractclassandinterfacedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0249B152-8928-43A4-802E-57C556DA5429}|inheritancedemo\\inheritancedemo.csproj|d:\\greatlearning4\\day4\\day4projects\\inheritancedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0249B152-8928-43A4-802E-57C556DA5429}|inheritancedemo\\inheritancedemo.csproj|solutionrelative:inheritancedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0249B152-8928-43A4-802E-57C556DA5429}|inheritancedemo\\inheritancedemo.csproj|d:\\greatlearning4\\day4\\day4projects\\inheritancedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0249B152-8928-43A4-802E-57C556DA5429}|inheritancedemo\\inheritancedemo.csproj|solutionrelative:inheritancedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8B71C6-F8B8-4706-BDCE-D1DD946DA005}|staticfunctiondemo\\staticfunctiondemo.csproj|d:\\greatlearning4\\day4\\day4projects\\staticfunctiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8B71C6-F8B8-4706-BDCE-D1DD946DA005}|staticfunctiondemo\\staticfunctiondemo.csproj|solutionrelative:staticfunctiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF561BD-A302-44B7-9FA0-EED0FCC906B0}|staticvariabledemo\\staticvariabledemo.csproj|d:\\greatlearning4\\day4\\day4projects\\staticvariabledemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EF561BD-A302-44B7-9FA0-EED0FCC906B0}|staticvariabledemo\\staticvariabledemo.csproj|solutionrelative:staticvariabledemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF561BD-A302-44B7-9FA0-EED0FCC906B0}|staticvariabledemo\\staticvariabledemo.csproj|d:\\greatlearning4\\day4\\day4projects\\staticvariabledemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF561BD-A302-44B7-9FA0-EED0FCC906B0}|staticvariabledemo\\staticvariabledemo.csproj|solutionrelative:staticvariabledemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C51C9-6E59-4163-8502-AAD484DAE096}|Propertiesdemo\\Propertiesdemo.csproj|d:\\greatlearning4\\day4\\day4projects\\propertiesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C51C9-6E59-4163-8502-AAD484DAE096}|Propertiesdemo\\Propertiesdemo.csproj|solutionrelative:propertiesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day4\\Day4Projects\\Virtualfunctions\\Program.cs",
+              "RelativeDocumentMoniker": "Virtualfunctions\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day4\\Day4Projects\\Virtualfunctions\\Program.cs",
+              "RelativeToolTip": "Virtualfunctions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:02:36.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day4\\Day4Projects\\Functionoverloading_compiletimepoly\\Program.cs",
+              "RelativeDocumentMoniker": "Functionoverloading_compiletimepoly\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day4\\Day4Projects\\Functionoverloading_compiletimepoly\\Program.cs",
+              "RelativeToolTip": "Functionoverloading_compiletimepoly\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:47:18.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day4\\Day4Projects\\Abstractclassandinterfacedemo\\Form1.cs",
+              "RelativeDocumentMoniker": "Abstractclassandinterfacedemo\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day4\\Day4Projects\\Abstractclassandinterfacedemo\\Form1.cs",
+              "RelativeToolTip": "Abstractclassandinterfacedemo\\Form1.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAYwHIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:26:52.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day4\\Day4Projects\\Abstractclassandinterfacedemo\\Form1.cs",
+              "RelativeDocumentMoniker": "Abstractclassandinterfacedemo\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day4\\Day4Projects\\Abstractclassandinterfacedemo\\Form1.cs [Design]",
+              "RelativeToolTip": "Abstractclassandinterfacedemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:25:50.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day4\\Day4Projects\\inheritancedemo\\Form1.cs",
+              "RelativeDocumentMoniker": "inheritancedemo\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day4\\Day4Projects\\inheritancedemo\\Form1.cs",
+              "RelativeToolTip": "inheritancedemo\\Form1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:01:29.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day4\\Day4Projects\\inheritancedemo\\Form1.cs",
+              "RelativeDocumentMoniker": "inheritancedemo\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day4\\Day4Projects\\inheritancedemo\\Form1.cs [Design]",
+              "RelativeToolTip": "inheritancedemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:00:47.939Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day4\\Day4Projects\\staticfunctiondemo\\Program.cs",
+              "RelativeDocumentMoniker": "staticfunctiondemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day4\\Day4Projects\\staticfunctiondemo\\Program.cs",
+              "RelativeToolTip": "staticfunctiondemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T04:17:23.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day4\\Day4Projects\\staticvariabledemo\\Form1.cs",
+              "RelativeDocumentMoniker": "staticvariabledemo\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day4\\Day4Projects\\staticvariabledemo\\Form1.cs",
+              "RelativeToolTip": "staticvariabledemo\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA/wBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T04:07:34.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day4\\Day4Projects\\staticvariabledemo\\Form1.cs",
+              "RelativeDocumentMoniker": "staticvariabledemo\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day4\\Day4Projects\\staticvariabledemo\\Form1.cs [Design]",
+              "RelativeToolTip": "staticvariabledemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T04:00:49.218Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day4\\Day4Projects\\Propertiesdemo\\Program.cs",
+              "RelativeDocumentMoniker": "Propertiesdemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day4\\Day4Projects\\Propertiesdemo\\Program.cs",
+              "RelativeToolTip": "Propertiesdemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T03:24:03.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\GreatLearning4\Day4\Day4Projects\inheritancedemo\bin\Debug\inheritancedemo.exe.config
+D:\GreatLearning4\Day4\Day4Projects\inheritancedemo\bin\Debug\inheritancedemo.exe
+D:\GreatLearning4\Day4\Day4Projects\inheritancedemo\bin\Debug\inheritancedemo.pdb
+D:\GreatLearning4\Day4\Day4Projects\inheritancedemo\obj\Debug\inheritancedemo.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day4\Day4Projects\inheritancedemo\obj\Debug\inheritancedemo.Form1.resources
+D:\GreatLearning4\Day4\Day4Projects\inheritancedemo\obj\Debug\inheritancedemo.Properties.Resources.resources
+D:\GreatLearning4\Day4\Day4Projects\inheritancedemo\obj\Debug\inheritancedemo.csproj.GenerateResource.cache
+D:\GreatLearning4\Day4\Day4Projects\inheritancedemo\obj\Debug\inheritancedemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day4\Day4Projects\inheritancedemo\obj\Debug\inheritancedemo.exe
+D:\GreatLearning4\Day4\Day4Projects\inheritancedemo\obj\Debug\inheritancedemo.pdb
