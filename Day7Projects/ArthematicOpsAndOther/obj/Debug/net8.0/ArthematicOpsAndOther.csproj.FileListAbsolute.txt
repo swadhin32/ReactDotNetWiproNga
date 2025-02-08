@@ -1,0 +1,11 @@
+D:\GreatLearning4\Day7\Day&Projects\ArthematicOpsAndOther\obj\Debug\net8.0\ArthematicOpsAndOther.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning4\Day7\Day&Projects\ArthematicOpsAndOther\obj\Debug\net8.0\ArthematicOpsAndOther.AssemblyInfoInputs.cache
+D:\GreatLearning4\Day7\Day&Projects\ArthematicOpsAndOther\obj\Debug\net8.0\ArthematicOpsAndOther.AssemblyInfo.cs
+D:\GreatLearning4\Day7\Day&Projects\ArthematicOpsAndOther\obj\Debug\net8.0\ArthematicOpsAndOther.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day7\Day&Projects\ArthematicOpsAndOther\bin\Debug\net8.0\ArthematicOpsAndOther.deps.json
+D:\GreatLearning4\Day7\Day&Projects\ArthematicOpsAndOther\bin\Debug\net8.0\ArthematicOpsAndOther.dll
+D:\GreatLearning4\Day7\Day&Projects\ArthematicOpsAndOther\bin\Debug\net8.0\ArthematicOpsAndOther.pdb
+D:\GreatLearning4\Day7\Day&Projects\ArthematicOpsAndOther\obj\Debug\net8.0\ArthematicOpsAndOther.dll
+D:\GreatLearning4\Day7\Day&Projects\ArthematicOpsAndOther\obj\Debug\net8.0\refint\ArthematicOpsAndOther.dll
+D:\GreatLearning4\Day7\Day&Projects\ArthematicOpsAndOther\obj\Debug\net8.0\ArthematicOpsAndOther.pdb
+D:\GreatLearning4\Day7\Day&Projects\ArthematicOpsAndOther\obj\Debug\net8.0\ref\ArthematicOpsAndOther.dll

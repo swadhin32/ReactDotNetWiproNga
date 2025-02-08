@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B37C5DC6-F10B-4EC6-BC99-8B43AE593B8C}|TestProject3\\TestProject3.csproj|d:\\greatlearning4\\day7\\day\u0026projects\\testproject3\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37C5DC6-F10B-4EC6-BC99-8B43AE593B8C}|TestProject3\\TestProject3.csproj|solutionrelative:testproject3\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAD36CD-447C-400F-8B4A-9D21DF323BCE}|TestProject2\\TestProject2.csproj|d:\\greatlearning4\\day7\\day\u0026projects\\testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAD36CD-447C-400F-8B4A-9D21DF323BCE}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62168B79-DC67-41B8-83BF-849EE0048EBD}|TestProject1\\TestProject1.csproj|d:\\greatlearning4\\day7\\day\u0026projects\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62168B79-DC67-41B8-83BF-849EE0048EBD}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC647CE1-22CF-4A17-BD0A-5086C84C4156}|ArthematicOpsAndOther\\ArthematicOpsAndOther.csproj|d:\\greatlearning4\\day7\\day\u0026projects\\arthematicopsandother\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC647CE1-22CF-4A17-BD0A-5086C84C4156}|ArthematicOpsAndOther\\ArthematicOpsAndOther.csproj|solutionrelative:arthematicopsandother\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB94CFC3-8FD8-4B6A-8CF6-3DF2EEA324E0}|UnitTestProject1\\UnitTestProject1.csproj|d:\\greatlearning4\\day7\\day\u0026projects\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB94CFC3-8FD8-4B6A-8CF6-3DF2EEA324E0}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9771B835-CCA4-4AFE-961C-69331B436E56}|PasswordStrengthMeter\\PasswordStrengthMeter.csproj|d:\\greatlearning4\\day7\\day\u0026projects\\passwordstrengthmeter\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9771B835-CCA4-4AFE-961C-69331B436E56}|PasswordStrengthMeter\\PasswordStrengthMeter.csproj|solutionrelative:passwordstrengthmeter\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1567D7C-1379-4394-A940-7AD390E5357A}|Inbuiltgenericdelegatedemo2\\Inbuiltgenericdelegatedemo2.csproj|d:\\greatlearning4\\day7\\day\u0026projects\\inbuiltgenericdelegatedemo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1567D7C-1379-4394-A940-7AD390E5357A}|Inbuiltgenericdelegatedemo2\\Inbuiltgenericdelegatedemo2.csproj|solutionrelative:inbuiltgenericdelegatedemo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D879FD-D17C-4B13-9835-0F93A129CC87}|InBuiltdelgatesdemo\\InBuiltdelgatesdemo.csproj|d:\\greatlearning4\\day7\\day\u0026projects\\inbuiltdelgatesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D879FD-D17C-4B13-9835-0F93A129CC87}|InBuiltdelgatesdemo\\InBuiltdelgatesdemo.csproj|solutionrelative:inbuiltdelgatesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6290FC4-84E5-4B1C-8942-753EB1261F18}|eventdelegatedemo\\eventdelegatedemo.csproj|d:\\greatlearning4\\day7\\day\u0026projects\\eventdelegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6290FC4-84E5-4B1C-8942-753EB1261F18}|eventdelegatedemo\\eventdelegatedemo.csproj|solutionrelative:eventdelegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10218132-787F-4762-A900-50D9D2F81058}|delegatedemo1\\delegatedemo1.csproj|d:\\greatlearning4\\day7\\day\u0026projects\\delegatedemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10218132-787F-4762-A900-50D9D2F81058}|delegatedemo1\\delegatedemo1.csproj|solutionrelative:delegatedemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC45716-AD06-48D7-AD73-958882E4BFCC}|Queuedemo\\Queuedemo.csproj|d:\\greatlearning4\\day7\\day\u0026projects\\queuedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC45716-AD06-48D7-AD73-958882E4BFCC}|Queuedemo\\Queuedemo.csproj|solutionrelative:queuedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B2BDF6-CC4D-4B42-A5EB-8C9E63D56354}|stackdemo\\stackdemo.csproj|d:\\greatlearning4\\day7\\day\u0026projects\\stackdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B2BDF6-CC4D-4B42-A5EB-8C9E63D56354}|stackdemo\\stackdemo.csproj|solutionrelative:stackdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB82671A-5F01-459D-AEEC-1D8215FEDF6F}|GenericDictionarydemo\\GenericDictionarydemo.csproj|d:\\greatlearning4\\day7\\day\u0026projects\\genericdictionarydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB82671A-5F01-459D-AEEC-1D8215FEDF6F}|GenericDictionarydemo\\GenericDictionarydemo.csproj|solutionrelative:genericdictionarydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\TestProject3\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject3\\UnitTest1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\TestProject3\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject3\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:05:10.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\TestProject2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject2\\UnitTest1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\TestProject2\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject2\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:57:33.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwEMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:21:39.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\ArthematicOpsAndOther\\Class1.cs",
+              "RelativeDocumentMoniker": "ArthematicOpsAndOther\\Class1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\ArthematicOpsAndOther\\Class1.cs",
+              "RelativeToolTip": "ArthematicOpsAndOther\\Class1.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAgwFkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:10:55.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:34:18.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\PasswordStrengthMeter\\Class1.cs",
+              "RelativeDocumentMoniker": "PasswordStrengthMeter\\Class1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\PasswordStrengthMeter\\Class1.cs",
+              "RelativeToolTip": "PasswordStrengthMeter\\Class1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:19:54.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\Inbuiltgenericdelegatedemo2\\Program.cs",
+              "RelativeDocumentMoniker": "Inbuiltgenericdelegatedemo2\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\Inbuiltgenericdelegatedemo2\\Program.cs",
+              "RelativeToolTip": "Inbuiltgenericdelegatedemo2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T06:46:00.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\InBuiltdelgatesdemo\\Program.cs",
+              "RelativeDocumentMoniker": "InBuiltdelgatesdemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\InBuiltdelgatesdemo\\Program.cs",
+              "RelativeToolTip": "InBuiltdelgatesdemo\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA6wB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T06:18:51.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\eventdelegatedemo\\Program.cs",
+              "RelativeDocumentMoniker": "eventdelegatedemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\eventdelegatedemo\\Program.cs",
+              "RelativeToolTip": "eventdelegatedemo\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:18:37.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\delegatedemo1\\Program.cs",
+              "RelativeDocumentMoniker": "delegatedemo1\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\delegatedemo1\\Program.cs",
+              "RelativeToolTip": "delegatedemo1\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:24:46.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\Queuedemo\\Program.cs",
+              "RelativeDocumentMoniker": "Queuedemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\Queuedemo\\Program.cs",
+              "RelativeToolTip": "Queuedemo\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:04:54.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\stackdemo\\Program.cs",
+              "RelativeDocumentMoniker": "stackdemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\stackdemo\\Program.cs",
+              "RelativeToolTip": "stackdemo\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:59:16.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\GenericDictionarydemo\\Program.cs",
+              "RelativeDocumentMoniker": "GenericDictionarydemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day7\\Day\u0026Projects\\GenericDictionarydemo\\Program.cs",
+              "RelativeToolTip": "GenericDictionarydemo\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:24:20.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

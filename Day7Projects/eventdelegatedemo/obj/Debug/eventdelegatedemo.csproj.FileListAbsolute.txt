@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day7\Day&Projects\eventdelegatedemo\bin\Debug\eventdelegatedemo.exe.config
+D:\GreatLearning4\Day7\Day&Projects\eventdelegatedemo\bin\Debug\eventdelegatedemo.exe
+D:\GreatLearning4\Day7\Day&Projects\eventdelegatedemo\bin\Debug\eventdelegatedemo.pdb
+D:\GreatLearning4\Day7\Day&Projects\eventdelegatedemo\obj\Debug\eventdelegatedemo.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day7\Day&Projects\eventdelegatedemo\obj\Debug\eventdelegatedemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day7\Day&Projects\eventdelegatedemo\obj\Debug\eventdelegatedemo.exe
+D:\GreatLearning4\Day7\Day&Projects\eventdelegatedemo\obj\Debug\eventdelegatedemo.pdb

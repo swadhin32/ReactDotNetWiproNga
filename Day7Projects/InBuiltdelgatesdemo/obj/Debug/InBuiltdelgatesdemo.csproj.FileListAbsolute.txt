@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day7\Day&Projects\InBuiltdelgatesdemo\bin\Debug\InBuiltdelgatesdemo.exe.config
+D:\GreatLearning4\Day7\Day&Projects\InBuiltdelgatesdemo\bin\Debug\InBuiltdelgatesdemo.exe
+D:\GreatLearning4\Day7\Day&Projects\InBuiltdelgatesdemo\bin\Debug\InBuiltdelgatesdemo.pdb
+D:\GreatLearning4\Day7\Day&Projects\InBuiltdelgatesdemo\obj\Debug\InBuiltdelgatesdemo.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day7\Day&Projects\InBuiltdelgatesdemo\obj\Debug\InBuiltdelgatesdemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day7\Day&Projects\InBuiltdelgatesdemo\obj\Debug\InBuiltdelgatesdemo.exe
+D:\GreatLearning4\Day7\Day&Projects\InBuiltdelgatesdemo\obj\Debug\InBuiltdelgatesdemo.pdb

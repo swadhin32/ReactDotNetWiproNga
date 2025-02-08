@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day7\Day&Projects\stackdemo\bin\Debug\stackdemo.exe.config
+D:\GreatLearning4\Day7\Day&Projects\stackdemo\bin\Debug\stackdemo.exe
+D:\GreatLearning4\Day7\Day&Projects\stackdemo\bin\Debug\stackdemo.pdb
+D:\GreatLearning4\Day7\Day&Projects\stackdemo\obj\Debug\stackdemo.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day7\Day&Projects\stackdemo\obj\Debug\stackdemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day7\Day&Projects\stackdemo\obj\Debug\stackdemo.exe
+D:\GreatLearning4\Day7\Day&Projects\stackdemo\obj\Debug\stackdemo.pdb

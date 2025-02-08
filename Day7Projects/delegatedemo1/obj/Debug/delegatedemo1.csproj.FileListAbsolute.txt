@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day7\Day&Projects\delegatedemo1\bin\Debug\delegatedemo1.exe.config
+D:\GreatLearning4\Day7\Day&Projects\delegatedemo1\bin\Debug\delegatedemo1.exe
+D:\GreatLearning4\Day7\Day&Projects\delegatedemo1\bin\Debug\delegatedemo1.pdb
+D:\GreatLearning4\Day7\Day&Projects\delegatedemo1\obj\Debug\delegatedemo1.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day7\Day&Projects\delegatedemo1\obj\Debug\delegatedemo1.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day7\Day&Projects\delegatedemo1\obj\Debug\delegatedemo1.exe
+D:\GreatLearning4\Day7\Day&Projects\delegatedemo1\obj\Debug\delegatedemo1.pdb
