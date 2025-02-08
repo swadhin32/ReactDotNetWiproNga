@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Day1Projects",
-    "\\Day1Projects\\Printandscandemo"
+    "\\Day1Projects\\Printandscandemo",
+    "\\Day2Projects",
+    "\\Day2Projects\\Jumpstatements",
+    "\\Day2Projects\\StringInBuiltFunctions"
   ],
-  "SelectedNode": "\\Day1Projects\\Printandscandemo\\Program.cs",
+  "SelectedNode": "\\Day2Projects\\StringInBuiltFunctions\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

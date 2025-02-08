@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\WiproDotNet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WiproDotNet\\Day2Projects\\StringInBuiltFunctions\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day2Projects\\StringInBuiltFunctions\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WiproDotNet\\Day2Projects\\Jumpstatements\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day2Projects\\Jumpstatements\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WiproDotNet\\Day2Projects\\BoxingandUnboxing\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day2Projects\\BoxingandUnboxing\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WiproDotNet\\Day2Projects\\callbyvalueandreferences\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day2Projects\\callbyvalueandreferences\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WiproDotNet\\Day2Projects\\callbyvalueandreferences\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day2Projects\\callbyvalueandreferences\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WiproDotNet\\Day1Projects\\Printandscandemo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day1Projects\\Printandscandemo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -24,6 +44,71 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day2Projects\\StringInBuiltFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "Day2Projects\\StringInBuiltFunctions\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day2Projects\\StringInBuiltFunctions\\Program.cs",
+              "RelativeToolTip": "Day2Projects\\StringInBuiltFunctions\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:05:03.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day2Projects\\Jumpstatements\\Program.cs",
+              "RelativeDocumentMoniker": "Day2Projects\\Jumpstatements\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day2Projects\\Jumpstatements\\Program.cs",
+              "RelativeToolTip": "Day2Projects\\Jumpstatements\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:03:34.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day2Projects\\callbyvalueandreferences\\Form1.cs",
+              "RelativeDocumentMoniker": "Day2Projects\\callbyvalueandreferences\\Form1.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day2Projects\\callbyvalueandreferences\\Form1.cs",
+              "RelativeToolTip": "Day2Projects\\callbyvalueandreferences\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:00:35.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day2Projects\\callbyvalueandreferences\\Program.cs",
+              "RelativeDocumentMoniker": "Day2Projects\\callbyvalueandreferences\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day2Projects\\callbyvalueandreferences\\Program.cs",
+              "RelativeToolTip": "Day2Projects\\callbyvalueandreferences\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:00:31.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day2Projects\\BoxingandUnboxing\\Program.cs",
+              "RelativeDocumentMoniker": "Day2Projects\\BoxingandUnboxing\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day2Projects\\BoxingandUnboxing\\Program.cs",
+              "RelativeToolTip": "Day2Projects\\BoxingandUnboxing\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:00:15.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\WiproDotNet\\Day1Projects\\Printandscandemo\\Program.cs",
               "RelativeDocumentMoniker": "Day1Projects\\Printandscandemo\\Program.cs",
               "ToolTip": "D:\\WiproDotNet\\Day1Projects\\Printandscandemo\\Program.cs",
@@ -35,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\WiproDotNet\\Day1Projects\\CubeDemo\\Class1.cs",
               "RelativeDocumentMoniker": "Day1Projects\\CubeDemo\\Class1.cs",
@@ -43,8 +128,7 @@
               "RelativeToolTip": "Day1Projects\\CubeDemo\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T11:42:07.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T11:42:07.184Z"
             }
           ]
         }
