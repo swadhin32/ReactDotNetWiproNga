@@ -1,0 +1,14 @@
+D:\GreatLearning4\Day8\Day8Projects\CSharp7and8Newfeatures_discardemo\bin\Debug\net8.0\CSharp7and8Newfeatures_discardemo.exe
+D:\GreatLearning4\Day8\Day8Projects\CSharp7and8Newfeatures_discardemo\bin\Debug\net8.0\CSharp7and8Newfeatures_discardemo.deps.json
+D:\GreatLearning4\Day8\Day8Projects\CSharp7and8Newfeatures_discardemo\bin\Debug\net8.0\CSharp7and8Newfeatures_discardemo.runtimeconfig.json
+D:\GreatLearning4\Day8\Day8Projects\CSharp7and8Newfeatures_discardemo\bin\Debug\net8.0\CSharp7and8Newfeatures_discardemo.dll
+D:\GreatLearning4\Day8\Day8Projects\CSharp7and8Newfeatures_discardemo\bin\Debug\net8.0\CSharp7and8Newfeatures_discardemo.pdb
+D:\GreatLearning4\Day8\Day8Projects\CSharp7and8Newfeatures_discardemo\obj\Debug\net8.0\CSharp7and8Newfeatures_discardemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning4\Day8\Day8Projects\CSharp7and8Newfeatures_discardemo\obj\Debug\net8.0\CSharp7and8Newfeatures_discardemo.AssemblyInfoInputs.cache
+D:\GreatLearning4\Day8\Day8Projects\CSharp7and8Newfeatures_discardemo\obj\Debug\net8.0\CSharp7and8Newfeatures_discardemo.AssemblyInfo.cs
+D:\GreatLearning4\Day8\Day8Projects\CSharp7and8Newfeatures_discardemo\obj\Debug\net8.0\CSharp7and8Newfeatures_discardemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day8\Day8Projects\CSharp7and8Newfeatures_discardemo\obj\Debug\net8.0\CSharp7and8Newfeatures_discardemo.dll
+D:\GreatLearning4\Day8\Day8Projects\CSharp7and8Newfeatures_discardemo\obj\Debug\net8.0\refint\CSharp7and8Newfeatures_discardemo.dll
+D:\GreatLearning4\Day8\Day8Projects\CSharp7and8Newfeatures_discardemo\obj\Debug\net8.0\CSharp7and8Newfeatures_discardemo.pdb
+D:\GreatLearning4\Day8\Day8Projects\CSharp7and8Newfeatures_discardemo\obj\Debug\net8.0\CSharp7and8Newfeatures_discardemo.genruntimeconfig.cache
+D:\GreatLearning4\Day8\Day8Projects\CSharp7and8Newfeatures_discardemo\obj\Debug\net8.0\ref\CSharp7and8Newfeatures_discardemo.dll

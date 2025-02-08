@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Csharp7and8Newfeatures_patternmatching/1.0.0": {
+        "runtime": {
+          "Csharp7and8Newfeatures_patternmatching.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharp7and8Newfeatures_patternmatching/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

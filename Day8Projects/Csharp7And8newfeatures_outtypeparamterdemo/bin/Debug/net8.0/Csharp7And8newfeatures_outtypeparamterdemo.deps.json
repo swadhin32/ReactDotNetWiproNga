@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Csharp7And8newfeatures_outtypeparamterdemo/1.0.0": {
+        "runtime": {
+          "Csharp7And8newfeatures_outtypeparamterdemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharp7And8newfeatures_outtypeparamterdemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

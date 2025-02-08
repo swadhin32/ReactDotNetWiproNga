@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day8\Day8Projects\ReflectionDemo\bin\Debug\ReflectionDemo.exe.config
+D:\GreatLearning4\Day8\Day8Projects\ReflectionDemo\bin\Debug\ReflectionDemo.exe
+D:\GreatLearning4\Day8\Day8Projects\ReflectionDemo\bin\Debug\ReflectionDemo.pdb
+D:\GreatLearning4\Day8\Day8Projects\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day8\Day8Projects\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day8\Day8Projects\ReflectionDemo\obj\Debug\ReflectionDemo.exe
+D:\GreatLearning4\Day8\Day8Projects\ReflectionDemo\obj\Debug\ReflectionDemo.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "cSharp7and8Newfeatures_expressionbodieddemo/1.0.0": {
+        "runtime": {
+          "cSharp7and8Newfeatures_expressionbodieddemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cSharp7and8Newfeatures_expressionbodieddemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning4\\Day8\\Day8Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC24F317-0F9B-4159-9E90-39AD4D3633D8}|ReflectionDemo\\ReflectionDemo.csproj|d:\\greatlearning4\\day8\\day8projects\\reflectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC24F317-0F9B-4159-9E90-39AD4D3633D8}|ReflectionDemo\\ReflectionDemo.csproj|solutionrelative:reflectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6367443-51D0-4B62-AE47-379FBAFF5ECB}|Asynchronus programming\\Asynchronus programming.csproj|d:\\greatlearning4\\day8\\day8projects\\asynchronus programming\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6367443-51D0-4B62-AE47-379FBAFF5ECB}|Asynchronus programming\\Asynchronus programming.csproj|solutionrelative:asynchronus programming\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6367443-51D0-4B62-AE47-379FBAFF5ECB}|Asynchronus programming\\Asynchronus programming.csproj|d:\\greatlearning4\\day8\\day8projects\\asynchronus programming\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6367443-51D0-4B62-AE47-379FBAFF5ECB}|Asynchronus programming\\Asynchronus programming.csproj|solutionrelative:asynchronus programming\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3C62C1-CB15-4591-822C-A610155022DA}|cSharp7and8Newfeatures_expressionbodieddemo\\cSharp7and8Newfeatures_expressionbodieddemo.csproj|d:\\greatlearning4\\day8\\day8projects\\csharp7and8newfeatures_expressionbodieddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3C62C1-CB15-4591-822C-A610155022DA}|cSharp7and8Newfeatures_expressionbodieddemo\\cSharp7and8Newfeatures_expressionbodieddemo.csproj|solutionrelative:csharp7and8newfeatures_expressionbodieddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5532B0-B300-426D-9739-72A7A51DFE5E}|CSharp7and8Newfeatures_discardemo\\CSharp7and8Newfeatures_discardemo.csproj|d:\\greatlearning4\\day8\\day8projects\\csharp7and8newfeatures_discardemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5532B0-B300-426D-9739-72A7A51DFE5E}|CSharp7and8Newfeatures_discardemo\\CSharp7and8Newfeatures_discardemo.csproj|solutionrelative:csharp7and8newfeatures_discardemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E44B16-7717-45C5-A900-30FDE0DF0440}|Csharp7And8newfeatures_outtypeparamterdemo\\Csharp7And8newfeatures_outtypeparamterdemo.csproj|d:\\greatlearning4\\day8\\day8projects\\csharp7and8newfeatures_outtypeparamterdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E44B16-7717-45C5-A900-30FDE0DF0440}|Csharp7And8newfeatures_outtypeparamterdemo\\Csharp7And8newfeatures_outtypeparamterdemo.csproj|solutionrelative:csharp7and8newfeatures_outtypeparamterdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70395D9-F27E-4453-8953-30DB5D000986}|CSharp7And8newfeatures_Localfunctions\\CSharp7And8newfeatures_Localfunctions.csproj|d:\\greatlearning4\\day8\\day8projects\\csharp7and8newfeatures_localfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70395D9-F27E-4453-8953-30DB5D000986}|CSharp7And8newfeatures_Localfunctions\\CSharp7And8newfeatures_Localfunctions.csproj|solutionrelative:csharp7and8newfeatures_localfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3486D831-6298-4BF3-8C78-B26E8AE0F420}|Csharp7and8Newfeatures_patternmatching\\Csharp7and8Newfeatures_patternmatching.csproj|d:\\greatlearning4\\day8\\day8projects\\csharp7and8newfeatures_patternmatching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3486D831-6298-4BF3-8C78-B26E8AE0F420}|Csharp7and8Newfeatures_patternmatching\\Csharp7and8Newfeatures_patternmatching.csproj|solutionrelative:csharp7and8newfeatures_patternmatching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A97FF-9CA2-46C4-BCA6-B20BFE6C97F0}|CSharp7and8ewFeature_TuplesandDeconstruction\\CSharp7and8ewFeature_TuplesandDeconstruction.csproj|d:\\greatlearning4\\day8\\day8projects\\csharp7and8ewfeature_tuplesanddeconstruction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0A97FF-9CA2-46C4-BCA6-B20BFE6C97F0}|CSharp7and8ewFeature_TuplesandDeconstruction\\CSharp7and8ewFeature_TuplesandDeconstruction.csproj|solutionrelative:csharp7and8ewfeature_tuplesanddeconstruction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56542DA0-3F38-4712-ABCB-7944F1A458CF}|MockTestingDemo\\MockTestingDemo.csproj|d:\\greatlearning4\\day8\\day8projects\\mocktestingdemo\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56542DA0-3F38-4712-ABCB-7944F1A458CF}|MockTestingDemo\\MockTestingDemo.csproj|solutionrelative:mocktestingdemo\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8C59E6-E4B2-4110-9C2C-0165CA8C9F47}|PositivenegativeEdgeTestcase\\PositivenegativeEdgeTestcase.csproj|d:\\greatlearning4\\day8\\day8projects\\positivenegativeedgetestcase\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8C59E6-E4B2-4110-9C2C-0165CA8C9F47}|PositivenegativeEdgeTestcase\\PositivenegativeEdgeTestcase.csproj|solutionrelative:positivenegativeedgetestcase\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C078D2C0-9A1B-453A-8542-D3924BBF0853}|BankAccountTest\\BankAccountTest.csproj|d:\\greatlearning4\\day8\\day8projects\\bankaccounttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C078D2C0-9A1B-453A-8542-D3924BBF0853}|BankAccountTest\\BankAccountTest.csproj|solutionrelative:bankaccounttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day8\\Day8Projects\\ReflectionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ReflectionDemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day8\\Day8Projects\\ReflectionDemo\\Program.cs",
+              "RelativeToolTip": "ReflectionDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:50:41.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day8\\Day8Projects\\Asynchronus programming\\Form1.cs",
+              "RelativeDocumentMoniker": "Asynchronus programming\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day8\\Day8Projects\\Asynchronus programming\\Form1.cs",
+              "RelativeToolTip": "Asynchronus programming\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T07:21:10.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day8\\Day8Projects\\Asynchronus programming\\Form1.cs",
+              "RelativeDocumentMoniker": "Asynchronus programming\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day8\\Day8Projects\\Asynchronus programming\\Form1.cs [Design]",
+              "RelativeToolTip": "Asynchronus programming\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T07:18:16.191Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day8\\Day8Projects\\cSharp7and8Newfeatures_expressionbodieddemo\\Program.cs",
+              "RelativeDocumentMoniker": "cSharp7and8Newfeatures_expressionbodieddemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day8\\Day8Projects\\cSharp7and8Newfeatures_expressionbodieddemo\\Program.cs",
+              "RelativeToolTip": "cSharp7and8Newfeatures_expressionbodieddemo\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T07:05:08.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day8\\Day8Projects\\CSharp7and8Newfeatures_discardemo\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp7and8Newfeatures_discardemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day8\\Day8Projects\\CSharp7and8Newfeatures_discardemo\\Program.cs",
+              "RelativeToolTip": "CSharp7and8Newfeatures_discardemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T07:00:46.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day8\\Day8Projects\\Csharp7And8newfeatures_outtypeparamterdemo\\Program.cs",
+              "RelativeDocumentMoniker": "Csharp7And8newfeatures_outtypeparamterdemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day8\\Day8Projects\\Csharp7And8newfeatures_outtypeparamterdemo\\Program.cs",
+              "RelativeToolTip": "Csharp7And8newfeatures_outtypeparamterdemo\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA5wA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:42:40.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day8\\Day8Projects\\CSharp7And8newfeatures_Localfunctions\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp7And8newfeatures_Localfunctions\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day8\\Day8Projects\\CSharp7And8newfeatures_Localfunctions\\Program.cs",
+              "RelativeToolTip": "CSharp7And8newfeatures_Localfunctions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:32:02.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day8\\Day8Projects\\Csharp7and8Newfeatures_patternmatching\\Program.cs",
+              "RelativeDocumentMoniker": "Csharp7and8Newfeatures_patternmatching\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day8\\Day8Projects\\Csharp7and8Newfeatures_patternmatching\\Program.cs",
+              "RelativeToolTip": "Csharp7and8Newfeatures_patternmatching\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA9wCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:13:55.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day8\\Day8Projects\\CSharp7and8ewFeature_TuplesandDeconstruction\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp7and8ewFeature_TuplesandDeconstruction\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day8\\Day8Projects\\CSharp7and8ewFeature_TuplesandDeconstruction\\Program.cs",
+              "RelativeToolTip": "CSharp7and8ewFeature_TuplesandDeconstruction\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAywAwAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T05:24:23.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day8\\Day8Projects\\MockTestingDemo\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MockTestingDemo\\UnitTest1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day8\\Day8Projects\\MockTestingDemo\\UnitTest1.cs",
+              "RelativeToolTip": "MockTestingDemo\\UnitTest1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:34:52.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day8\\Day8Projects\\PositivenegativeEdgeTestcase\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PositivenegativeEdgeTestcase\\UnitTest1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day8\\Day8Projects\\PositivenegativeEdgeTestcase\\UnitTest1.cs",
+              "RelativeToolTip": "PositivenegativeEdgeTestcase\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:00:28.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day8\\Day8Projects\\BankAccountTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BankAccountTest\\UnitTest1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day8\\Day8Projects\\BankAccountTest\\UnitTest1.cs",
+              "RelativeToolTip": "BankAccountTest\\UnitTest1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T03:43:59.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
