@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day6\Day6Projects\GenericDemoonMethodandclass\bin\Debug\GenericDemoonMethodandclass.exe.config
+D:\GreatLearning4\Day6\Day6Projects\GenericDemoonMethodandclass\bin\Debug\GenericDemoonMethodandclass.exe
+D:\GreatLearning4\Day6\Day6Projects\GenericDemoonMethodandclass\bin\Debug\GenericDemoonMethodandclass.pdb
+D:\GreatLearning4\Day6\Day6Projects\GenericDemoonMethodandclass\obj\Debug\GenericDemoonMethodandclass.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day6\Day6Projects\GenericDemoonMethodandclass\obj\Debug\GenericDemoonMethodandclass.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day6\Day6Projects\GenericDemoonMethodandclass\obj\Debug\GenericDemoonMethodandclass.exe
+D:\GreatLearning4\Day6\Day6Projects\GenericDemoonMethodandclass\obj\Debug\GenericDemoonMethodandclass.pdb

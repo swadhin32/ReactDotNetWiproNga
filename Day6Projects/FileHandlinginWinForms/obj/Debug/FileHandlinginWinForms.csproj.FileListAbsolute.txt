@@ -1,0 +1,10 @@
+D:\GreatLearning4\Day6\Day6Projects\FileHandlinginWinForms\bin\Debug\FileHandlinginWinForms.exe.config
+D:\GreatLearning4\Day6\Day6Projects\FileHandlinginWinForms\bin\Debug\FileHandlinginWinForms.exe
+D:\GreatLearning4\Day6\Day6Projects\FileHandlinginWinForms\bin\Debug\FileHandlinginWinForms.pdb
+D:\GreatLearning4\Day6\Day6Projects\FileHandlinginWinForms\obj\Debug\FileHandlinginWinForms.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day6\Day6Projects\FileHandlinginWinForms\obj\Debug\FileHandlinginWinForms.Form1.resources
+D:\GreatLearning4\Day6\Day6Projects\FileHandlinginWinForms\obj\Debug\FileHandlinginWinForms.Properties.Resources.resources
+D:\GreatLearning4\Day6\Day6Projects\FileHandlinginWinForms\obj\Debug\FileHandlinginWinForms.csproj.GenerateResource.cache
+D:\GreatLearning4\Day6\Day6Projects\FileHandlinginWinForms\obj\Debug\FileHandlinginWinForms.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day6\Day6Projects\FileHandlinginWinForms\obj\Debug\FileHandlinginWinForms.exe
+D:\GreatLearning4\Day6\Day6Projects\FileHandlinginWinForms\obj\Debug\FileHandlinginWinForms.pdb

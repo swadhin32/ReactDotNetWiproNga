@@ -1,0 +1,9 @@
+D:\GreatLearning4\Day6\Day6Projects\FileHnadlinginConsole\bin\Debug\Wipro.txt
+D:\GreatLearning4\Day6\Day6Projects\FileHnadlinginConsole\bin\Debug\FileHnadlinginConsole.exe.config
+D:\GreatLearning4\Day6\Day6Projects\FileHnadlinginConsole\bin\Debug\FileHnadlinginConsole.exe
+D:\GreatLearning4\Day6\Day6Projects\FileHnadlinginConsole\bin\Debug\FileHnadlinginConsole.pdb
+D:\GreatLearning4\Day6\Day6Projects\FileHnadlinginConsole\obj\Debug\FileHnadlinginConsole.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day6\Day6Projects\FileHnadlinginConsole\obj\Debug\FileHnadlinginConsole.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day6\Day6Projects\FileHnadlinginConsole\obj\Debug\FileHnadlinginConsole.exe
+D:\GreatLearning4\Day6\Day6Projects\FileHnadlinginConsole\obj\Debug\FileHnadlinginConsole.pdb
+D:\GreatLearning4\Day6\Day6Projects\FileHnadlinginConsole\bin\Debug\destination.txt
