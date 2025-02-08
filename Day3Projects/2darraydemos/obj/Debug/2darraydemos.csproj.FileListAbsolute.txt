@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day3\Day3Projects\2darraydemos\bin\Debug\2darraydemos.exe.config
+D:\GreatLearning4\Day3\Day3Projects\2darraydemos\bin\Debug\2darraydemos.exe
+D:\GreatLearning4\Day3\Day3Projects\2darraydemos\bin\Debug\2darraydemos.pdb
+D:\GreatLearning4\Day3\Day3Projects\2darraydemos\obj\Debug\2darraydemos.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day3\Day3Projects\2darraydemos\obj\Debug\2darraydemos.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day3\Day3Projects\2darraydemos\obj\Debug\2darraydemos.exe
+D:\GreatLearning4\Day3\Day3Projects\2darraydemos\obj\Debug\2darraydemos.pdb

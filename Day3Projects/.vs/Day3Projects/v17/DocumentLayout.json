@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning4\\Day3\\Day3Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20439728-391A-4E5B-8727-7B8C97A72F3D}|AccessModifiers\\AccessModifiers.csproj|d:\\greatlearning4\\day3\\day3projects\\accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20439728-391A-4E5B-8727-7B8C97A72F3D}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3323BB88-29F3-4EC7-8CDD-00FFC7E310CA}|ClassLibrary1\\ClassLibrary1.csproj|d:\\greatlearning4\\day3\\day3projects\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3323BB88-29F3-4EC7-8CDD-00FFC7E310CA}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B02FC7-AEE9-49B4-80A4-CB9E0EB3665F}|StringBuilderDemo\\StringBuilderDemo.csproj|d:\\greatlearning4\\day3\\day3projects\\stringbuilderdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B02FC7-AEE9-49B4-80A4-CB9E0EB3665F}|StringBuilderDemo\\StringBuilderDemo.csproj|solutionrelative:stringbuilderdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0711362-F2D2-4217-B52E-7289EED43D85}|JaggedArray\\JaggedArray.csproj|d:\\greatlearning4\\day3\\day3projects\\jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0711362-F2D2-4217-B52E-7289EED43D85}|JaggedArray\\JaggedArray.csproj|solutionrelative:jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FA18CA-C3AD-4CA4-8B86-4C97C52A4CEE}|2darraydemos\\2darraydemos.csproj|d:\\greatlearning4\\day3\\day3projects\\2darraydemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FA18CA-C3AD-4CA4-8B86-4C97C52A4CEE}|2darraydemos\\2darraydemos.csproj|solutionrelative:2darraydemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E511112F-0B29-4608-9D94-E967FDBDFC5C}|ArraysDemo\\ArraysDemo.csproj|d:\\greatlearning4\\day3\\day3projects\\arraysdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E511112F-0B29-4608-9D94-E967FDBDFC5C}|ArraysDemo\\ArraysDemo.csproj|solutionrelative:arraysdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day3\\Day3Projects\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day3\\Day3Projects\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:21:03.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day3\\Day3Projects\\AccessModifiers\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiers\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day3\\Day3Projects\\AccessModifiers\\Program.cs",
+              "RelativeToolTip": "AccessModifiers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:55:47.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day3\\Day3Projects\\StringBuilderDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StringBuilderDemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day3\\Day3Projects\\StringBuilderDemo\\Program.cs",
+              "RelativeToolTip": "StringBuilderDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:58:18.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day3\\Day3Projects\\JaggedArray\\Program.cs",
+              "RelativeDocumentMoniker": "JaggedArray\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day3\\Day3Projects\\JaggedArray\\Program.cs",
+              "RelativeToolTip": "JaggedArray\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:22:25.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day3\\Day3Projects\\2darraydemos\\Program.cs",
+              "RelativeDocumentMoniker": "2darraydemos\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day3\\Day3Projects\\2darraydemos\\Program.cs",
+              "RelativeToolTip": "2darraydemos\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T04:57:00.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day3\\Day3Projects\\ArraysDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ArraysDemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day3\\Day3Projects\\ArraysDemo\\Program.cs",
+              "RelativeToolTip": "ArraysDemo\\Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwHYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:30:05.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

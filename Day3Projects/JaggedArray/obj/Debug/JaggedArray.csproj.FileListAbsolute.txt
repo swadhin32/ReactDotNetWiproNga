@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day3\Day3Projects\JaggedArray\bin\Debug\JaggedArray.exe.config
+D:\GreatLearning4\Day3\Day3Projects\JaggedArray\bin\Debug\JaggedArray.exe
+D:\GreatLearning4\Day3\Day3Projects\JaggedArray\bin\Debug\JaggedArray.pdb
+D:\GreatLearning4\Day3\Day3Projects\JaggedArray\obj\Debug\JaggedArray.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day3\Day3Projects\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day3\Day3Projects\JaggedArray\obj\Debug\JaggedArray.exe
+D:\GreatLearning4\Day3\Day3Projects\JaggedArray\obj\Debug\JaggedArray.pdb
