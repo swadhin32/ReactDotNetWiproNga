@@ -1,0 +1,10 @@
+D:\GreatLearning4\Day5\Day5Projects\Exceptiondemo\bin\Debug\Exceptiondemo.exe.config
+D:\GreatLearning4\Day5\Day5Projects\Exceptiondemo\bin\Debug\Exceptiondemo.exe
+D:\GreatLearning4\Day5\Day5Projects\Exceptiondemo\bin\Debug\Exceptiondemo.pdb
+D:\GreatLearning4\Day5\Day5Projects\Exceptiondemo\obj\Debug\Exceptiondemo.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day5\Day5Projects\Exceptiondemo\obj\Debug\Exceptiondemo.Form1.resources
+D:\GreatLearning4\Day5\Day5Projects\Exceptiondemo\obj\Debug\Exceptiondemo.Properties.Resources.resources
+D:\GreatLearning4\Day5\Day5Projects\Exceptiondemo\obj\Debug\Exceptiondemo.csproj.GenerateResource.cache
+D:\GreatLearning4\Day5\Day5Projects\Exceptiondemo\obj\Debug\Exceptiondemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day5\Day5Projects\Exceptiondemo\obj\Debug\Exceptiondemo.exe
+D:\GreatLearning4\Day5\Day5Projects\Exceptiondemo\obj\Debug\Exceptiondemo.pdb

@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day5\Day5Projects\exceptiondemoinconsole\bin\Debug\exceptiondemoinconsole.exe.config
+D:\GreatLearning4\Day5\Day5Projects\exceptiondemoinconsole\bin\Debug\exceptiondemoinconsole.exe
+D:\GreatLearning4\Day5\Day5Projects\exceptiondemoinconsole\bin\Debug\exceptiondemoinconsole.pdb
+D:\GreatLearning4\Day5\Day5Projects\exceptiondemoinconsole\obj\Debug\exceptiondemoinconsole.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day5\Day5Projects\exceptiondemoinconsole\obj\Debug\exceptiondemoinconsole.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day5\Day5Projects\exceptiondemoinconsole\obj\Debug\exceptiondemoinconsole.exe
+D:\GreatLearning4\Day5\Day5Projects\exceptiondemoinconsole\obj\Debug\exceptiondemoinconsole.pdb

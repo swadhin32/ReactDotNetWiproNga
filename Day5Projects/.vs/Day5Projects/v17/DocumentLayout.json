@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning4\\Day5\\Day5Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06BABB59-87C9-4383-8599-9575F1D13588}|exceptiondemoinconsole\\exceptiondemoinconsole.csproj|d:\\greatlearning4\\day5\\day5projects\\exceptiondemoinconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BABB59-87C9-4383-8599-9575F1D13588}|exceptiondemoinconsole\\exceptiondemoinconsole.csproj|solutionrelative:exceptiondemoinconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0B2494-851A-4C3F-982C-D4C2A04190D3}|Exceptiondemo\\Exceptiondemo.csproj|d:\\greatlearning4\\day5\\day5projects\\exceptiondemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0B2494-851A-4C3F-982C-D4C2A04190D3}|Exceptiondemo\\Exceptiondemo.csproj|solutionrelative:exceptiondemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0B2494-851A-4C3F-982C-D4C2A04190D3}|Exceptiondemo\\Exceptiondemo.csproj|d:\\greatlearning4\\day5\\day5projects\\exceptiondemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F0B2494-851A-4C3F-982C-D4C2A04190D3}|Exceptiondemo\\Exceptiondemo.csproj|solutionrelative:exceptiondemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F030AAE5-FF7A-4F03-AC53-50DC21D2FFCD}|EnumerationDemo\\EnumerationDemo.csproj|d:\\greatlearning4\\day5\\day5projects\\enumerationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F030AAE5-FF7A-4F03-AC53-50DC21D2FFCD}|EnumerationDemo\\EnumerationDemo.csproj|solutionrelative:enumerationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12E01B0-6279-414F-B7ED-89D229ED8CB4}|Extensionmethods\\Extensionmethods.csproj|d:\\greatlearning4\\day5\\day5projects\\extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12E01B0-6279-414F-B7ED-89D229ED8CB4}|Extensionmethods\\Extensionmethods.csproj|solutionrelative:extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF3BC31-46A1-4725-B40E-89D942A1A69A}|MethodsandConstrcutors\\MethodsandConstrcutors.csproj|d:\\greatlearning4\\day5\\day5projects\\methodsandconstrcutors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF3BC31-46A1-4725-B40E-89D942A1A69A}|MethodsandConstrcutors\\MethodsandConstrcutors.csproj|solutionrelative:methodsandconstrcutors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day5\\Day5Projects\\exceptiondemoinconsole\\Program.cs",
+              "RelativeDocumentMoniker": "exceptiondemoinconsole\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day5\\Day5Projects\\exceptiondemoinconsole\\Program.cs",
+              "RelativeToolTip": "exceptiondemoinconsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:57:09.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day5\\Day5Projects\\Exceptiondemo\\Form1.cs",
+              "RelativeDocumentMoniker": "Exceptiondemo\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day5\\Day5Projects\\Exceptiondemo\\Form1.cs",
+              "RelativeToolTip": "Exceptiondemo\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwDgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:25:26.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day5\\Day5Projects\\Exceptiondemo\\Form1.cs",
+              "RelativeDocumentMoniker": "Exceptiondemo\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day5\\Day5Projects\\Exceptiondemo\\Form1.cs [Design]",
+              "RelativeToolTip": "Exceptiondemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:20:59.377Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day5\\Day5Projects\\EnumerationDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EnumerationDemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day5\\Day5Projects\\EnumerationDemo\\Program.cs",
+              "RelativeToolTip": "EnumerationDemo\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:56:15.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day5\\Day5Projects\\Extensionmethods\\Program.cs",
+              "RelativeDocumentMoniker": "Extensionmethods\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day5\\Day5Projects\\Extensionmethods\\Program.cs",
+              "RelativeToolTip": "Extensionmethods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:41:05.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day5\\Day5Projects\\MethodsandConstrcutors\\Program.cs",
+              "RelativeDocumentMoniker": "MethodsandConstrcutors\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day5\\Day5Projects\\MethodsandConstrcutors\\Program.cs",
+              "RelativeToolTip": "MethodsandConstrcutors\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAA7wEgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:11:24.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

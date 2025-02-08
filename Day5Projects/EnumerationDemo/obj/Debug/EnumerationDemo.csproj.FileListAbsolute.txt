@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day5\Day5Projects\EnumerationDemo\bin\Debug\EnumerationDemo.exe.config
+D:\GreatLearning4\Day5\Day5Projects\EnumerationDemo\bin\Debug\EnumerationDemo.exe
+D:\GreatLearning4\Day5\Day5Projects\EnumerationDemo\bin\Debug\EnumerationDemo.pdb
+D:\GreatLearning4\Day5\Day5Projects\EnumerationDemo\obj\Debug\EnumerationDemo.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day5\Day5Projects\EnumerationDemo\obj\Debug\EnumerationDemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day5\Day5Projects\EnumerationDemo\obj\Debug\EnumerationDemo.exe
+D:\GreatLearning4\Day5\Day5Projects\EnumerationDemo\obj\Debug\EnumerationDemo.pdb
