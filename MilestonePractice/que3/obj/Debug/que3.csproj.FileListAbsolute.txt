@@ -1,0 +1,7 @@
+D:\WiproDotNet\MilestonePractice\que3\bin\Debug\que3.exe.config
+D:\WiproDotNet\MilestonePractice\que3\bin\Debug\que3.exe
+D:\WiproDotNet\MilestonePractice\que3\bin\Debug\que3.pdb
+D:\WiproDotNet\MilestonePractice\que3\obj\Debug\que3.csproj.AssemblyReference.cache
+D:\WiproDotNet\MilestonePractice\que3\obj\Debug\que3.csproj.CoreCompileInputs.cache
+D:\WiproDotNet\MilestonePractice\que3\obj\Debug\que3.exe
+D:\WiproDotNet\MilestonePractice\que3\obj\Debug\que3.pdb

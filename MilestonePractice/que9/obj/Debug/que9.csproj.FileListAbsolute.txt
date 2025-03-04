@@ -1,0 +1,7 @@
+D:\WiproDotNet\MilestonePractice\que9\bin\Debug\que9.exe.config
+D:\WiproDotNet\MilestonePractice\que9\bin\Debug\que9.exe
+D:\WiproDotNet\MilestonePractice\que9\bin\Debug\que9.pdb
+D:\WiproDotNet\MilestonePractice\que9\obj\Debug\que9.csproj.AssemblyReference.cache
+D:\WiproDotNet\MilestonePractice\que9\obj\Debug\que9.csproj.CoreCompileInputs.cache
+D:\WiproDotNet\MilestonePractice\que9\obj\Debug\que9.exe
+D:\WiproDotNet\MilestonePractice\que9\obj\Debug\que9.pdb

@@ -52,9 +52,9 @@ namespace Exceptiondemo
 
 
         }
-        public class AxisBankException : ApplicationException
+        public class AdultContentException : ApplicationException
         {
-            public AxisBankException(string message) : base(message)
+            public AdultContentException(string message) : base(message)
             {
 
             }
@@ -66,19 +66,19 @@ namespace Exceptiondemo
                 int age = Convert.ToInt32(textBox4.Text);
                 if (age < 18)
                 {
-                    AxisBankException obj = new AxisBankException("AxisBankException:Age should be above 18 to open account");
+                    AdultContentException obj = new AdultContentException("Adult Content Exception :Age should be above 18 to access");
                     throw obj;
                 }
                 else
                 {
                     System.Diagnostics.Process.Start(new ProcessStartInfo
                     {
-                        FileName = "https://www.axisbank.com/",
+                        FileName = "https://www.qorno.com/",
                         UseShellExecute = true
                     });
                 }
             }
-            catch (AxisBankException axisobj)
+            catch (AdultContentException axisobj)
             {
 
                 MessageBox.Show(axisobj.Message);

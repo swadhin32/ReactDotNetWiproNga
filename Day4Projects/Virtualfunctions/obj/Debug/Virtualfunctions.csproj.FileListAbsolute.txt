@@ -5,3 +5,10 @@ D:\GreatLearning4\Day4\Day4Projects\Virtualfunctions\obj\Debug\Virtualfunctions.
 D:\GreatLearning4\Day4\Day4Projects\Virtualfunctions\obj\Debug\Virtualfunctions.csproj.CoreCompileInputs.cache
 D:\GreatLearning4\Day4\Day4Projects\Virtualfunctions\obj\Debug\Virtualfunctions.exe
 D:\GreatLearning4\Day4\Day4Projects\Virtualfunctions\obj\Debug\Virtualfunctions.pdb
+D:\WiproDotNet\Day4Projects\Virtualfunctions\bin\Debug\Virtualfunctions.exe.config
+D:\WiproDotNet\Day4Projects\Virtualfunctions\bin\Debug\Virtualfunctions.exe
+D:\WiproDotNet\Day4Projects\Virtualfunctions\bin\Debug\Virtualfunctions.pdb
+D:\WiproDotNet\Day4Projects\Virtualfunctions\obj\Debug\Virtualfunctions.csproj.AssemblyReference.cache
+D:\WiproDotNet\Day4Projects\Virtualfunctions\obj\Debug\Virtualfunctions.csproj.CoreCompileInputs.cache
+D:\WiproDotNet\Day4Projects\Virtualfunctions\obj\Debug\Virtualfunctions.exe
+D:\WiproDotNet\Day4Projects\Virtualfunctions\obj\Debug\Virtualfunctions.pdb

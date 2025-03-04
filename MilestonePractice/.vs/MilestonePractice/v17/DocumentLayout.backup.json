@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WiproDotNet\\MilestonePractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9140F12-E9EE-4C84-930B-0A5B7B69D463}|que9\\que9.csproj|d:\\wiprodotnet\\milestonepractice\\que9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9140F12-E9EE-4C84-930B-0A5B7B69D463}|que9\\que9.csproj|solutionrelative:que9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1D811B-84F7-427E-ABE3-80CCBD5D1A70}|que8\\que8.csproj|d:\\wiprodotnet\\milestonepractice\\que8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1D811B-84F7-427E-ABE3-80CCBD5D1A70}|que8\\que8.csproj|solutionrelative:que8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175E5BBE-AABA-4F2B-9B8D-EDEB07510CB5}|que7\\que7.csproj|d:\\wiprodotnet\\milestonepractice\\que7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175E5BBE-AABA-4F2B-9B8D-EDEB07510CB5}|que7\\que7.csproj|solutionrelative:que7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C427F45-DA4E-4A18-BC98-C133304D3A95}|que6\\que6.csproj|D:\\WiproDotNet\\MilestonePractice\\que6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C427F45-DA4E-4A18-BC98-C133304D3A95}|que6\\que6.csproj|solutionrelative:que6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DF8EB5-C1FF-4DC1-9A01-7C310BD71C03}|que5\\que5.csproj|D:\\WiproDotNet\\MilestonePractice\\que5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DF8EB5-C1FF-4DC1-9A01-7C310BD71C03}|que5\\que5.csproj|solutionrelative:que5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B393E675-58E5-4535-B26F-2B25DB554EF4}|que4\\que4.csproj|D:\\WiproDotNet\\MilestonePractice\\que4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B393E675-58E5-4535-B26F-2B25DB554EF4}|que4\\que4.csproj|solutionrelative:que4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A087CE6-A9B5-4DD5-B1EB-A91F100C3A1B}|que3\\que3.csproj|D:\\WiproDotNet\\MilestonePractice\\que3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A087CE6-A9B5-4DD5-B1EB-A91F100C3A1B}|que3\\que3.csproj|solutionrelative:que3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAA5DB4-DFDE-411C-8CC9-A208B9520249}|que2\\que2.csproj|D:\\WiproDotNet\\MilestonePractice\\que2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAA5DB4-DFDE-411C-8CC9-A208B9520249}|que2\\que2.csproj|solutionrelative:que2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928214E-5D4F-4B23-A795-465C4DD23912}|que1\\que1.csproj|D:\\WiproDotNet\\MilestonePractice\\que1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928214E-5D4F-4B23-A795-465C4DD23912}|que1\\que1.csproj|solutionrelative:que1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\MilestonePractice\\que9\\Program.cs",
+              "RelativeDocumentMoniker": "que9\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\MilestonePractice\\que9\\Program.cs*",
+              "RelativeToolTip": "que9\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:45:18.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\MilestonePractice\\que8\\Program.cs",
+              "RelativeDocumentMoniker": "que8\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\MilestonePractice\\que8\\Program.cs",
+              "RelativeToolTip": "que8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:14:13.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\MilestonePractice\\que7\\Program.cs",
+              "RelativeDocumentMoniker": "que7\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\MilestonePractice\\que7\\Program.cs",
+              "RelativeToolTip": "que7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:42:07.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\MilestonePractice\\que6\\Program.cs",
+              "RelativeDocumentMoniker": "que6\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\MilestonePractice\\que6\\Program.cs",
+              "RelativeToolTip": "que6\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:08:42.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\MilestonePractice\\que5\\Program.cs",
+              "RelativeDocumentMoniker": "que5\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\MilestonePractice\\que5\\Program.cs",
+              "RelativeToolTip": "que5\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:53:47.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\MilestonePractice\\que4\\Program.cs",
+              "RelativeDocumentMoniker": "que4\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\MilestonePractice\\que4\\Program.cs",
+              "RelativeToolTip": "que4\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:49:58.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\MilestonePractice\\que3\\Program.cs",
+              "RelativeDocumentMoniker": "que3\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\MilestonePractice\\que3\\Program.cs",
+              "RelativeToolTip": "que3\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:41:25.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\MilestonePractice\\que2\\Program.cs",
+              "RelativeDocumentMoniker": "que2\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\MilestonePractice\\que2\\Program.cs",
+              "RelativeToolTip": "que2\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA5wCsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:56:54.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\MilestonePractice\\que1\\Program.cs",
+              "RelativeDocumentMoniker": "que1\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\MilestonePractice\\que1\\Program.cs",
+              "RelativeToolTip": "que1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:50:44.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

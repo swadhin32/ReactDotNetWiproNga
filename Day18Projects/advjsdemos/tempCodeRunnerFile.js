@@ -1,0 +1,2 @@
+
+// array.filter((element)=>(condition))

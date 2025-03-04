@@ -1,0 +1,14 @@
+D:\GreatLearning4\Day11\Day11Projects\DIP\bin\Debug\net8.0\DIP.exe
+D:\GreatLearning4\Day11\Day11Projects\DIP\bin\Debug\net8.0\DIP.deps.json
+D:\GreatLearning4\Day11\Day11Projects\DIP\bin\Debug\net8.0\DIP.runtimeconfig.json
+D:\GreatLearning4\Day11\Day11Projects\DIP\bin\Debug\net8.0\DIP.dll
+D:\GreatLearning4\Day11\Day11Projects\DIP\bin\Debug\net8.0\DIP.pdb
+D:\GreatLearning4\Day11\Day11Projects\DIP\obj\Debug\net8.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning4\Day11\Day11Projects\DIP\obj\Debug\net8.0\DIP.AssemblyInfoInputs.cache
+D:\GreatLearning4\Day11\Day11Projects\DIP\obj\Debug\net8.0\DIP.AssemblyInfo.cs
+D:\GreatLearning4\Day11\Day11Projects\DIP\obj\Debug\net8.0\DIP.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day11\Day11Projects\DIP\obj\Debug\net8.0\DIP.dll
+D:\GreatLearning4\Day11\Day11Projects\DIP\obj\Debug\net8.0\refint\DIP.dll
+D:\GreatLearning4\Day11\Day11Projects\DIP\obj\Debug\net8.0\DIP.pdb
+D:\GreatLearning4\Day11\Day11Projects\DIP\obj\Debug\net8.0\DIP.genruntimeconfig.cache
+D:\GreatLearning4\Day11\Day11Projects\DIP\obj\Debug\net8.0\ref\DIP.dll

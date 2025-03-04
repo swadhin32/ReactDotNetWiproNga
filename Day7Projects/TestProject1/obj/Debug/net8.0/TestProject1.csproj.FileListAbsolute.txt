@@ -99,3 +99,6 @@ D:\GreatLearning4\Day7\Day&Projects\TestProject1\obj\Debug\net8.0\refint\TestPro
 D:\GreatLearning4\Day7\Day&Projects\TestProject1\obj\Debug\net8.0\TestProject1.pdb
 D:\GreatLearning4\Day7\Day&Projects\TestProject1\obj\Debug\net8.0\TestProject1.genruntimeconfig.cache
 D:\GreatLearning4\Day7\Day&Projects\TestProject1\obj\Debug\net8.0\ref\TestProject1.dll
+D:\WiproDotNet\Day7Projects\TestProject1\obj\Debug\net8.0\TestProject1.dll
+D:\WiproDotNet\Day7Projects\TestProject1\obj\Debug\net8.0\refint\TestProject1.dll
+D:\WiproDotNet\Day7Projects\TestProject1\obj\Debug\net8.0\TestProject1.pdb

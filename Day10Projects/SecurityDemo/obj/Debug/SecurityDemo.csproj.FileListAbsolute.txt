@@ -1,0 +1,11 @@
+D:\WiproDotNet\Day10Projects\SecurityDemo\bin\Debug\SecurityDemo.exe.config
+D:\WiproDotNet\Day10Projects\SecurityDemo\bin\Debug\SecurityDemo.exe
+D:\WiproDotNet\Day10Projects\SecurityDemo\bin\Debug\SecurityDemo.pdb
+D:\WiproDotNet\Day10Projects\SecurityDemo\obj\Debug\SecurityDemo.csproj.AssemblyReference.cache
+D:\WiproDotNet\Day10Projects\SecurityDemo\obj\Debug\SecurityDemo.Form1.resources
+D:\WiproDotNet\Day10Projects\SecurityDemo\obj\Debug\SecurityDemo.Properties.Resources.resources
+D:\WiproDotNet\Day10Projects\SecurityDemo\obj\Debug\SecurityDemo.csproj.GenerateResource.cache
+D:\WiproDotNet\Day10Projects\SecurityDemo\obj\Debug\SecurityDemo.csproj.CoreCompileInputs.cache
+D:\WiproDotNet\Day10Projects\SecurityDemo\obj\Debug\SecurityDemo.exe
+D:\WiproDotNet\Day10Projects\SecurityDemo\obj\Debug\SecurityDemo.pdb
+D:\WiproDotNet\Day10Projects\SecurityDemo\obj\Debug\SecurityDemo.MainForm.resources

@@ -1,0 +1,7 @@
+D:\WiproDotNet\Day5Projects\Extensionmethods\bin\Debug\Extensionmethods.exe.config
+D:\WiproDotNet\Day5Projects\Extensionmethods\bin\Debug\Extensionmethods.exe
+D:\WiproDotNet\Day5Projects\Extensionmethods\bin\Debug\Extensionmethods.pdb
+D:\WiproDotNet\Day5Projects\Extensionmethods\obj\Debug\Extensionmethods.csproj.AssemblyReference.cache
+D:\WiproDotNet\Day5Projects\Extensionmethods\obj\Debug\Extensionmethods.csproj.CoreCompileInputs.cache
+D:\WiproDotNet\Day5Projects\Extensionmethods\obj\Debug\Extensionmethods.exe
+D:\WiproDotNet\Day5Projects\Extensionmethods\obj\Debug\Extensionmethods.pdb

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PositivenegativeEdgeTestcase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0184986aa4c2d2e51aae114ca52f450ef90eb94")]
 [assembly: System.Reflection.AssemblyProductAttribute("PositivenegativeEdgeTestcase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PositivenegativeEdgeTestcase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

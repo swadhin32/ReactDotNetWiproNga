@@ -1,0 +1,14 @@
+D:\GreatLearning4\Day11\Day11Projects\ISP\bin\Debug\net8.0\ISP.exe
+D:\GreatLearning4\Day11\Day11Projects\ISP\bin\Debug\net8.0\ISP.deps.json
+D:\GreatLearning4\Day11\Day11Projects\ISP\bin\Debug\net8.0\ISP.runtimeconfig.json
+D:\GreatLearning4\Day11\Day11Projects\ISP\bin\Debug\net8.0\ISP.dll
+D:\GreatLearning4\Day11\Day11Projects\ISP\bin\Debug\net8.0\ISP.pdb
+D:\GreatLearning4\Day11\Day11Projects\ISP\obj\Debug\net8.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning4\Day11\Day11Projects\ISP\obj\Debug\net8.0\ISP.AssemblyInfoInputs.cache
+D:\GreatLearning4\Day11\Day11Projects\ISP\obj\Debug\net8.0\ISP.AssemblyInfo.cs
+D:\GreatLearning4\Day11\Day11Projects\ISP\obj\Debug\net8.0\ISP.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day11\Day11Projects\ISP\obj\Debug\net8.0\ISP.dll
+D:\GreatLearning4\Day11\Day11Projects\ISP\obj\Debug\net8.0\refint\ISP.dll
+D:\GreatLearning4\Day11\Day11Projects\ISP\obj\Debug\net8.0\ISP.pdb
+D:\GreatLearning4\Day11\Day11Projects\ISP\obj\Debug\net8.0\ISP.genruntimeconfig.cache
+D:\GreatLearning4\Day11\Day11Projects\ISP\obj\Debug\net8.0\ref\ISP.dll

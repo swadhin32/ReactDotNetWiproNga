@@ -16,10 +16,10 @@ namespace Virtualfunctions
     }
     class SubClass :BaseClass
     {
-        //public override void display()
-        //{
-        //    Console.WriteLine("Sub Class class display..");
-        //}
+        public override void display()
+        {
+            Console.WriteLine("Sub Class class display..");
+        }
     }
     internal class Program
     {

@@ -1,0 +1,7 @@
+D:\WiproDotNet\Day4Projects\staticfunctiondemo\bin\Debug\staticfunctiondemo.exe.config
+D:\WiproDotNet\Day4Projects\staticfunctiondemo\bin\Debug\staticfunctiondemo.exe
+D:\WiproDotNet\Day4Projects\staticfunctiondemo\bin\Debug\staticfunctiondemo.pdb
+D:\WiproDotNet\Day4Projects\staticfunctiondemo\obj\Debug\staticfunctiondemo.csproj.AssemblyReference.cache
+D:\WiproDotNet\Day4Projects\staticfunctiondemo\obj\Debug\staticfunctiondemo.csproj.CoreCompileInputs.cache
+D:\WiproDotNet\Day4Projects\staticfunctiondemo\obj\Debug\staticfunctiondemo.exe
+D:\WiproDotNet\Day4Projects\staticfunctiondemo\obj\Debug\staticfunctiondemo.pdb

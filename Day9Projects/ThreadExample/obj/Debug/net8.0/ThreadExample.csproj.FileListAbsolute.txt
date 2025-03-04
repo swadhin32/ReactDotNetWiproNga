@@ -1,0 +1,14 @@
+D:\GreatLearning4\Day9\Day9Projects\ThreadExample\obj\Debug\net8.0\ThreadExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning4\Day9\Day9Projects\ThreadExample\obj\Debug\net8.0\ThreadExample.AssemblyInfoInputs.cache
+D:\GreatLearning4\Day9\Day9Projects\ThreadExample\obj\Debug\net8.0\ThreadExample.AssemblyInfo.cs
+D:\GreatLearning4\Day9\Day9Projects\ThreadExample\obj\Debug\net8.0\ThreadExample.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day9\Day9Projects\ThreadExample\bin\Debug\net8.0\ThreadExample.exe
+D:\GreatLearning4\Day9\Day9Projects\ThreadExample\bin\Debug\net8.0\ThreadExample.deps.json
+D:\GreatLearning4\Day9\Day9Projects\ThreadExample\bin\Debug\net8.0\ThreadExample.runtimeconfig.json
+D:\GreatLearning4\Day9\Day9Projects\ThreadExample\bin\Debug\net8.0\ThreadExample.dll
+D:\GreatLearning4\Day9\Day9Projects\ThreadExample\bin\Debug\net8.0\ThreadExample.pdb
+D:\GreatLearning4\Day9\Day9Projects\ThreadExample\obj\Debug\net8.0\ThreadExample.dll
+D:\GreatLearning4\Day9\Day9Projects\ThreadExample\obj\Debug\net8.0\refint\ThreadExample.dll
+D:\GreatLearning4\Day9\Day9Projects\ThreadExample\obj\Debug\net8.0\ThreadExample.pdb
+D:\GreatLearning4\Day9\Day9Projects\ThreadExample\obj\Debug\net8.0\ThreadExample.genruntimeconfig.cache
+D:\GreatLearning4\Day9\Day9Projects\ThreadExample\obj\Debug\net8.0\ref\ThreadExample.dll

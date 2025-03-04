@@ -59,6 +59,8 @@ namespace Extensionmethods
             Console.WriteLine($"{number1} is odd: {number1.IsOdd()}"); // Output: 5 is odd: True
             Console.WriteLine($"{number2} is odd: {number2.IsOdd()}"); // Output: 8 is odd: False
 
+            Console.ReadLine();
+
         }
     }
 }

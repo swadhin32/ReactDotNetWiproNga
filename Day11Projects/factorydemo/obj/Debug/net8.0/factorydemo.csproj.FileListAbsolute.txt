@@ -1,0 +1,15 @@
+D:\WiproDotNet\Day11Projects\factorydemo\bin\Debug\net8.0\factorydemo.exe
+D:\WiproDotNet\Day11Projects\factorydemo\bin\Debug\net8.0\factorydemo.deps.json
+D:\WiproDotNet\Day11Projects\factorydemo\bin\Debug\net8.0\factorydemo.runtimeconfig.json
+D:\WiproDotNet\Day11Projects\factorydemo\bin\Debug\net8.0\factorydemo.dll
+D:\WiproDotNet\Day11Projects\factorydemo\bin\Debug\net8.0\factorydemo.pdb
+D:\WiproDotNet\Day11Projects\factorydemo\obj\Debug\net8.0\factorydemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\WiproDotNet\Day11Projects\factorydemo\obj\Debug\net8.0\factorydemo.AssemblyInfoInputs.cache
+D:\WiproDotNet\Day11Projects\factorydemo\obj\Debug\net8.0\factorydemo.AssemblyInfo.cs
+D:\WiproDotNet\Day11Projects\factorydemo\obj\Debug\net8.0\factorydemo.csproj.CoreCompileInputs.cache
+D:\WiproDotNet\Day11Projects\factorydemo\obj\Debug\net8.0\factorydemo.sourcelink.json
+D:\WiproDotNet\Day11Projects\factorydemo\obj\Debug\net8.0\factorydemo.dll
+D:\WiproDotNet\Day11Projects\factorydemo\obj\Debug\net8.0\refint\factorydemo.dll
+D:\WiproDotNet\Day11Projects\factorydemo\obj\Debug\net8.0\factorydemo.pdb
+D:\WiproDotNet\Day11Projects\factorydemo\obj\Debug\net8.0\factorydemo.genruntimeconfig.cache
+D:\WiproDotNet\Day11Projects\factorydemo\obj\Debug\net8.0\ref\factorydemo.dll

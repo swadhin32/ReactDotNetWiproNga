@@ -1,0 +1,2 @@
+D:\WiproDotNet\Day11Projects\singletonpractice\obj\Debug\singletonpractice.csproj.AssemblyReference.cache
+D:\WiproDotNet\Day11Projects\singletonpractice\obj\Debug\singletonpractice.csproj.CoreCompileInputs.cache

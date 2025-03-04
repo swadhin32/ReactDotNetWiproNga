@@ -1,0 +1,10 @@
+D:\WiproDotNet\MilestonePractice\que7\bin\Debug\que7.exe.config
+D:\WiproDotNet\MilestonePractice\que7\bin\Debug\que7.exe
+D:\WiproDotNet\MilestonePractice\que7\bin\Debug\que7.pdb
+D:\WiproDotNet\MilestonePractice\que7\bin\Debug\System.ValueTuple.dll
+D:\WiproDotNet\MilestonePractice\que7\bin\Debug\System.ValueTuple.xml
+D:\WiproDotNet\MilestonePractice\que7\obj\Debug\que7.csproj.AssemblyReference.cache
+D:\WiproDotNet\MilestonePractice\que7\obj\Debug\que7.csproj.CoreCompileInputs.cache
+D:\WiproDotNet\MilestonePractice\que7\obj\Debug\que7.csproj.Up2Date
+D:\WiproDotNet\MilestonePractice\que7\obj\Debug\que7.exe
+D:\WiproDotNet\MilestonePractice\que7\obj\Debug\que7.pdb

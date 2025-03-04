@@ -1,0 +1,14 @@
+D:\GreatLearning4\Day12\Day12Projects\observerdemo\obj\Debug\net8.0\observerdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning4\Day12\Day12Projects\observerdemo\obj\Debug\net8.0\observerdemo.AssemblyInfoInputs.cache
+D:\GreatLearning4\Day12\Day12Projects\observerdemo\obj\Debug\net8.0\observerdemo.AssemblyInfo.cs
+D:\GreatLearning4\Day12\Day12Projects\observerdemo\obj\Debug\net8.0\observerdemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day12\Day12Projects\observerdemo\bin\Debug\net8.0\observerdemo.exe
+D:\GreatLearning4\Day12\Day12Projects\observerdemo\bin\Debug\net8.0\observerdemo.deps.json
+D:\GreatLearning4\Day12\Day12Projects\observerdemo\bin\Debug\net8.0\observerdemo.runtimeconfig.json
+D:\GreatLearning4\Day12\Day12Projects\observerdemo\bin\Debug\net8.0\observerdemo.dll
+D:\GreatLearning4\Day12\Day12Projects\observerdemo\bin\Debug\net8.0\observerdemo.pdb
+D:\GreatLearning4\Day12\Day12Projects\observerdemo\obj\Debug\net8.0\observerdemo.dll
+D:\GreatLearning4\Day12\Day12Projects\observerdemo\obj\Debug\net8.0\refint\observerdemo.dll
+D:\GreatLearning4\Day12\Day12Projects\observerdemo\obj\Debug\net8.0\observerdemo.pdb
+D:\GreatLearning4\Day12\Day12Projects\observerdemo\obj\Debug\net8.0\observerdemo.genruntimeconfig.cache
+D:\GreatLearning4\Day12\Day12Projects\observerdemo\obj\Debug\net8.0\ref\observerdemo.dll

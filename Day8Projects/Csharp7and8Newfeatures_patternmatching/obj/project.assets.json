@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\raghavendra\\.nuget\\packages\\": {}
+    "C:\\Users\\hiram\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GreatLearning4\\Day8\\Day8Projects\\Csharp7and8Newfeatures_patternmatching\\Csharp7and8Newfeatures_patternmatching.csproj",
+      "projectUniqueName": "D:\\WiproDotNet\\Day8Projects\\Csharp7and8Newfeatures_patternmatching\\Csharp7and8Newfeatures_patternmatching.csproj",
       "projectName": "Csharp7and8Newfeatures_patternmatching",
-      "projectPath": "D:\\GreatLearning4\\Day8\\Day8Projects\\Csharp7and8Newfeatures_patternmatching\\Csharp7and8Newfeatures_patternmatching.csproj",
-      "packagesPath": "C:\\Users\\raghavendra\\.nuget\\packages\\",
-      "outputPath": "D:\\GreatLearning4\\Day8\\Day8Projects\\Csharp7and8Newfeatures_patternmatching\\obj\\",
+      "projectPath": "D:\\WiproDotNet\\Day8Projects\\Csharp7and8Newfeatures_patternmatching\\Csharp7and8Newfeatures_patternmatching.csproj",
+      "packagesPath": "C:\\Users\\hiram\\.nuget\\packages\\",
+      "outputPath": "D:\\WiproDotNet\\Day8Projects\\Csharp7and8Newfeatures_patternmatching\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\raghavendra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hiram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,7 +51,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -66,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

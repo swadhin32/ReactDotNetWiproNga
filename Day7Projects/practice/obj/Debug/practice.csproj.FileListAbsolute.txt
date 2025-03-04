@@ -1,0 +1,7 @@
+D:\WiproDotNet\Day7Projects\practice\bin\Debug\practice.exe.config
+D:\WiproDotNet\Day7Projects\practice\bin\Debug\practice.exe
+D:\WiproDotNet\Day7Projects\practice\bin\Debug\practice.pdb
+D:\WiproDotNet\Day7Projects\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+D:\WiproDotNet\Day7Projects\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+D:\WiproDotNet\Day7Projects\practice\obj\Debug\practice.exe
+D:\WiproDotNet\Day7Projects\practice\obj\Debug\practice.pdb

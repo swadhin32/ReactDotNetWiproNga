@@ -1,0 +1,23 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+
+    int k;
+    Layout = "_Layout";
+}
+@{
+
+    int a = 10;
+    int b = 20;
+    int c = a + b;
+
+}
+
+<div class="text-center">
+    <marquee>
+        <h1 class="display-4">Welcome</h1>
+    </marquee>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h2>Welcome to Wipro and the value for c is @c </h2>
+</div>

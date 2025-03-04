@@ -1,0 +1,495 @@
+Now i had added two css files into the components folder and let the TaskList.js be in Components folder only 
+
+ TaskList.js
+--------------
+import { useState } from 'react';
+import  Taskcard  from './Taskcard';
+import "./TaskList.css";
+import "./AddTask.css";
+import "./../App3.css"
+export const TaskList = () => {
+const [tasks, setTasks] = useState([
+{id: 5271, name: "Record React Lectures", completed: true},
+{id: 7825, name: "Edit React Lectures", completed: false},
+{id: 8391, name: "Watch Lectures", completed: false}
+]);
+const [show, setShow] = useState(true);
+function handleDelete(id){
+setTasks(tasks.filter(task => task.id !== id));
+}
+return (
+<section className='tasklist'>
+<ul>
+<div className='header'>
+<h1>TaskList</h1>
+<button className='trigger' onClick={() => setShow(!show)}>{ show ? "Hide Tasks" : "Show Tasks"}</button>
+</div>
+{ show && tasks.map((task) => (
+<Taskcard key={task.id} task={task} handleDelete={handleDelete} />
+)) }
+</ul>
+</section>
+)
+}
+
+export default TaskList
+TaskList.css
+-------------
+.tasklist ul {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-radius: 5px;
+}
+
+.tasklist .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 10px;
+    margin-bottom: 30px;
+}
+
+.tasklist h1 {
+    font-size: 28px;
+    text-align: center;
+}
+
+.tasklist button.trigger {
+    border: 0px;
+    border-radius: 5px;
+    background-color: blue;
+    color: #FFFFFF;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+
+AddTask.css
+------------
+.addtask {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-radius: 5px;
+}
+
+.addtask form {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.addtask label {
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+.addtask input {
+    font-size: 18px;
+    padding: 7px;
+    border: 1px solid #878787;
+    border-radius: 5px;
+    flex-grow: 1;
+    margin: 10px;
+}
+
+.addtask input:focus {
+    outline: none;
+}
+
+.addtask select {
+    font-size: 18px;
+    padding: 7px;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.addtask button {
+    font-size: 18px;
+    padding: 7px 10px;
+    margin: 10px;
+}
+update this your project upto here now 
+
+so now i want to add a task now in the componenets folder only i want to add tasks 
+add a file in componenets folder AddTask.js say rafc enter 
+
+AddTask.js
+------------
+ import React from 'react'
+import "./AddTask.css";
+import { useState } from 'react';
+
+export const AddTask = () => {
+
+    const [taskValue, setTaskValue] = useState("");
+
+    const handleChange = (event) =>
+    {
+
+       setTaskValue(event.target.value)
+    }
+
+    const handleReset = () =>
+    {
+        setTaskValue("");
+    }
+
+    return (
+      
+        <section className="addtask">
+
+            <form >
+                
+                <input type="text" onChange={handleChange} name="task" id="task" placeholder='enter task name' autoComplete="off" 
+                    value={taskValue} />
+                <button type="submit" style={{ background: "blue" }}>Add task</button><br/>
+             
+                <button onClick={handleReset} className='reset' style={{ background: "blue",color:"white" }} >Reset</button>
+          </form>
+          <p> {taskValue}</p>
+        </section>
+   
+  )
+}
+
+again you can update AddTask.css with the below 
+------------------------------------------------
+ .addtask {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-radius: 5px;
+}
+
+.addtask form {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.addtask label {
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+.addtask input {
+    font-size: 18px;
+    padding: 7px;
+    border: 1px solid #878787;
+    border-radius: 5px;
+    flex-grow: 1;
+    margin: 10px;
+}
+
+.addtask input:focus {
+    outline: none;
+}
+
+.addtask select {
+    font-size: 18px;
+    padding: 7px;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+    .addtask button {
+        font-size: 18px;
+        padding: 7px 10px;
+        margin: 10px;
+        background-color: #129762;
+    }
+    
+    .addtask.reset {
+        font-size: 18px;
+        padding: 7px 10px;
+        margin: 10px;
+        background-color: #be3434;
+        color: #FFFFFF;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+just paste this css for future referecne 
+
+Now i will work on on submit method of form so i am calling a method over there prevent defaults to avoid page refresh and also to remove data after clicking
+submit button i am doing handle reset method and finally i am creating a drop and from there doing selection and data type which i am getting there is string
+that i am converting into Boolean and what is value of progress that i am using it and supplying it value so just analyze the code you will understand it clearly .
+
+ Modified AddTask.js 
+-----------------------
+ import React from 'react'
+import "./AddTask.css";
+import { useState } from 'react';
+
+export const AddTask = () => {
+
+    const [taskValue, setTaskValue] = useState("");
+    const [progress, setProgress] = useState(false);
+
+    const handleChange = (event) =>
+    {
+
+       setTaskValue(event.target.value)
+    }
+
+    const handleReset = () =>
+    {
+        setTaskValue("");
+    }
+
+    const handleDropdown = (e) =>
+    {
+        setProgress(e.target.value);
+    }
+    const handleSubmit = (event) =>
+    {
+        event.preventDefault();
+        const task =
+        {
+            id : Math.floor(Math.random() * 10000),
+                name :taskValue,
+                completed:Boolean(progress)
+        }
+        console.log(task);
+        handleReset();
+    }
+
+    return (
+      
+        <section className="addtask">
+
+            <form onSubmit={handleSubmit}>
+                
+                <input type="text" onChange={handleChange} name="task" id="task" placeholder='enter task name' autoComplete="off" 
+                    value={taskValue} />
+                <select onChange={handleDropdown} value={progress}>
+                    <option value="false">Pending</option>
+                    <option value="true">Completed</option>
+               </select>
+                        <button type="submit" style={{ background: "blue" }}>Add task</button><br/>
+             
+                <button onClick={handleReset} className='reset' style={{ background: "blue",color:"white" }} >Reset</button>
+          </form>
+          <p> {taskValue}</p>
+        </section>
+   
+  )
+}
+
+Now i need to add the task object into the current 3 array elements as 4th element okay
+i have to add task and using add task component i have to add it TaskList.js so but they both are siblings 
+ so not possible to do that so in App3.js file only i will
+take the collection of arrays and will work like this for which the code is provided okay .
+
+ so now i am removing the array from taskList to App3 and from App3 tasks and and settaks i am passsing to tasklist and
+also to add task also as props 
+
+App3.js 
+----------
+ import React from 'react'
+import { useState } from 'react';
+import './App3.css';
+import { Header } from './components/Header';
+import TaskList from './components/TaskList';
+import { AddTask } from './components/AddTask';
+export default function App3() {
+
+    const [tasks, setTasks] = useState([
+    {id: 5271, name: "Record React Lectures", completed: true},
+    {id: 7825, name: "Edit React Lectures", completed: false},
+    {id: 8391, name: "Watch Lectures", completed: false}
+    ]);
+    
+   
+  return (
+      <div className="App">
+      <Header />
+      <AddTask tasks={tasks} setTasks={setTasks}/>
+       <TaskList title="Random" subtitle="Test" tasks={tasks} setTasks={setTasks} />
+          
+   </div>
+  )
+}
+
+
+you can see it has taken cutted the array from TaskList.js 
+
+TaskList.js 
+--------------
+ import { useState } from 'react';
+import  Taskcard  from './Taskcard';
+import "./TaskList.css";
+import "./AddTask.css";
+
+export const TaskList = ({tasks,setTasks}) => {
+
+const [show, setShow] = useState(true);
+function handleDelete(id){
+setTasks(tasks.filter(task => task.id !== id));
+}
+return (
+        <section className='tasklist'>
+            <ul>
+                <div className='header'>
+                <h1>TaskList</h1>
+                <button className='trigger' onClick={() => setShow(!show)}>{ show ? "Hide Tasks" : "Show Tasks"}</button>
+                </div>
+                { show && tasks.map((task) => (
+                <Taskcard key={task.id} task={task} handleDelete={handleDelete} />
+                )) }
+            </ul>
+        </section>
+)
+}
+
+export default TaskList
+
+so it is taking as props as it has given it is taking and substituting where is needed the list 
+
+AddTask.js 
+-----------
+ import React from 'react'
+import "./AddTask.css";
+import { useState } from 'react';
+
+export const AddTask = ({tasks,setTasks}) => {
+
+    const [taskValue, setTaskValue] = useState("");
+    const [progress, setProgress] = useState(false);
+
+    const handleChange = (event) =>
+    {
+
+       setTaskValue(event.target.value)
+    }
+
+    const handleReset = () =>
+    {
+        setTaskValue("");
+    }
+
+    const handleDropdown = (event) =>
+    {
+        setProgress(event.target.value);
+    }
+    const handleSubmit = (event) =>
+    {
+        event.preventDefault();
+        const task =
+        {
+            id : Math.floor(Math.random() * 10000),
+                name :taskValue,
+                completed:Boolean(progress)
+        }
+      // console.log(task);
+//setTasks(task) // this will give error as it is list so chnaged like this below
+//setTasks([task])// this will override earlier 3 tasks so finally i will write this we have to follow this rule
+        setTasks([...tasks,task])
+        handleReset();
+    }
+
+    return (
+      
+        <section className="addtask">
+
+            <form onSubmit={handleSubmit}>
+                
+                <input type="text" onChange={handleChange} name="task" id="task" placeholder='enter task name' autoComplete="off" 
+                    value={taskValue} />
+                <select onChange={handleDropdown} value={progress}>
+                    <option value="false">Pending</option>
+                    <option value="true">Completed</option>
+               </select>
+                        <button type="submit" style={{ background: "blue" }}>Add task</button><br/>
+             
+                <button onClick={handleReset} className='reset' style={{ background: "blue",color:"white" }} >Reset</button>
+          </form>
+          <p> {taskValue}</p>
+        </section>
+   
+  )
+}
+
+
+so this also is taking tasks and settasks as while adding a new task where it can add we have to provide tasks to him
+and how it can add using setTasks only so it is also taking as props tasks and settasks 
+
+so what task i was doing for add task i can do it using useref hook also just analyze the code you will understand here i am attaching it to the control so it is same as usestate but u cannot show or redner the chnaged values on paage like how u you were doing for <p>{taskvalue}</p>
+
+so  addtask text box will behave same only like earleir but instead of usestate  on that text box i will use useref hook 
+
+
+AddTask.js modified using useRef 
+---------------------------------
+ import React from 'react'
+import "./AddTask.css";
+import { useState ,useRef} from 'react';
+
+export const AddTask = ({tasks,setTasks}) => {
+
+ //   const [taskValue, setTaskValue] = useState("");
+    const [progress, setProgress] = useState(false);
+    const taskRef = useRef("");
+
+    // const handleChange = (event) =>
+    // {
+
+    //    setTaskValue(event.target.value)
+    // }
+
+    const handleReset = () =>
+    {
+        // setTaskValue("");
+        taskRef.current.value = "";
+    }
+
+    const handleDropdown = (event) =>
+    {
+        setProgress(event.target.value);
+    }
+    const handleSubmit = (event) =>
+    {
+        event.preventDefault();
+        const task =
+        {
+            id : Math.floor(Math.random() * 10000),
+                name :taskRef.current.value,
+                completed:Boolean(progress)
+        }
+      // console.log(task);
+//setTasks(task) // this will give error as it is list so chnaged like this below
+//setTasks([task])// this will override earlier 3 tasks so finally i will write this we have to follow this rule
+        setTasks([...tasks,task])
+        handleReset();
+    }
+
+    return (
+      
+        <section className="addtask">
+
+            <form onSubmit={handleSubmit}>
+                
+                <input type="text"  name="task" id="task" placeholder='enter task name' autoComplete="off" 
+                    ref={taskRef} />
+                <select onChange={handleDropdown} value={progress}>
+                    <option value="false">Pending</option>
+                    <option value="true">Completed</option>
+               </select>
+                        <button type="submit" style={{ background: "blue" }}>Add task</button><br/>
+             
+                <button onClick={handleReset} className='reset' style={{ background: "blue",color:"white" }} >Reset</button>
+          </form>
+          <p> {taskRef.current.value}</p>// on screen i cannot see 
+        </section>
+   
+  )
+}

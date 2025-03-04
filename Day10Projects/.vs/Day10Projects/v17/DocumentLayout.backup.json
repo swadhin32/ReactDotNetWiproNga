@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WiproDotNet\\Day10Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{574ADB60-F428-40CD-A919-3999B51F3136}|SecurityTestingAssignment\\SecurityTestingAssignment.csproj|d:\\wiprodotnet\\day10projects\\securitytestingassignment\\securitytestingassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{574ADB60-F428-40CD-A919-3999B51F3136}|SecurityTestingAssignment\\SecurityTestingAssignment.csproj|solutionrelative:securitytestingassignment\\securitytestingassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574ADB60-F428-40CD-A919-3999B51F3136}|SecurityTestingAssignment\\SecurityTestingAssignment.csproj|d:\\wiprodotnet\\day10projects\\securitytestingassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574ADB60-F428-40CD-A919-3999B51F3136}|SecurityTestingAssignment\\SecurityTestingAssignment.csproj|solutionrelative:securitytestingassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574ADB60-F428-40CD-A919-3999B51F3136}|SecurityTestingAssignment\\SecurityTestingAssignment.csproj|d:\\wiprodotnet\\day10projects\\securitytestingassignment\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574ADB60-F428-40CD-A919-3999B51F3136}|SecurityTestingAssignment\\SecurityTestingAssignment.csproj|solutionrelative:securitytestingassignment\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574ADB60-F428-40CD-A919-3999B51F3136}|SecurityTestingAssignment\\SecurityTestingAssignment.csproj|d:\\wiprodotnet\\day10projects\\securitytestingassignment\\user.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{574ADB60-F428-40CD-A919-3999B51F3136}|SecurityTestingAssignment\\SecurityTestingAssignment.csproj|solutionrelative:securitytestingassignment\\user.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C703D6-BC2D-48D6-955C-96C73462B74A}|SecurityDemo\\SecurityDemo.csproj|D:\\WiproDotNet\\Day10Projects\\securitydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C703D6-BC2D-48D6-955C-96C73462B74A}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E2C877-3CF8-4040-9BA7-A97C4E30F5DB}|Log4NetDemo\\Log4NetDemo.csproj|d:\\wiprodotnet\\day10projects\\log4netdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E2C877-3CF8-4040-9BA7-A97C4E30F5DB}|Log4NetDemo\\Log4NetDemo.csproj|solutionrelative:log4netdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C703D6-BC2D-48D6-955C-96C73462B74A}|SecurityDemo\\SecurityDemo.csproj|d:\\wiprodotnet\\day10projects\\securitydemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C703D6-BC2D-48D6-955C-96C73462B74A}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C703D6-BC2D-48D6-955C-96C73462B74A}|SecurityDemo\\SecurityDemo.csproj|D:\\WiproDotNet\\Day10Projects\\securitydemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4C703D6-BC2D-48D6-955C-96C73462B74A}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C703D6-BC2D-48D6-955C-96C73462B74A}|SecurityDemo\\SecurityDemo.csproj|D:\\WiproDotNet\\Day10Projects\\securitydemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4C703D6-BC2D-48D6-955C-96C73462B74A}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925F1D1-3038-4EF1-9CA9-8A97A4908BFC}|EncryptDecryptDemo\\EncryptDecryptDemo.csproj|D:\\WiproDotNet\\Day10Projects\\encryptdecryptdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925F1D1-3038-4EF1-9CA9-8A97A4908BFC}|EncryptDecryptDemo\\EncryptDecryptDemo.csproj|solutionrelative:encryptdecryptdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114DE8EB-7857-442C-9F26-8E6A204C8167}|ConsoleApp1\\ConsoleApp1.csproj|d:\\wiprodotnet\\day10projects\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114DE8EB-7857-442C-9F26-8E6A204C8167}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C703D6-BC2D-48D6-955C-96C73462B74A}|SecurityDemo\\SecurityDemo.csproj|D:\\WiproDotNet\\Day10Projects\\securitydemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C703D6-BC2D-48D6-955C-96C73462B74A}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C703D6-BC2D-48D6-955C-96C73462B74A}|SecurityDemo\\SecurityDemo.csproj|D:\\WiproDotNet\\Day10Projects\\securitydemo\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C703D6-BC2D-48D6-955C-96C73462B74A}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C703D6-BC2D-48D6-955C-96C73462B74A}|SecurityDemo\\SecurityDemo.csproj|D:\\WiproDotNet\\Day10Projects\\securitydemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C703D6-BC2D-48D6-955C-96C73462B74A}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day10Projects\\SecurityTestingAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "SecurityTestingAssignment\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day10Projects\\SecurityTestingAssignment\\Program.cs*",
+              "RelativeToolTip": "SecurityTestingAssignment\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:14:57.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day10Projects\\SecurityTestingAssignment\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "SecurityTestingAssignment\\EncryptionHelper.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day10Projects\\SecurityTestingAssignment\\EncryptionHelper.cs",
+              "RelativeToolTip": "SecurityTestingAssignment\\EncryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:56:54.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecurityTestingAssignment",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day10Projects\\SecurityTestingAssignment\\SecurityTestingAssignment.csproj",
+              "RelativeDocumentMoniker": "SecurityTestingAssignment\\SecurityTestingAssignment.csproj",
+              "ToolTip": "D:\\WiproDotNet\\Day10Projects\\SecurityTestingAssignment\\SecurityTestingAssignment.csproj",
+              "RelativeToolTip": "SecurityTestingAssignment\\SecurityTestingAssignment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T19:56:00.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day10Projects\\SecurityTestingAssignment\\User.cs",
+              "RelativeDocumentMoniker": "SecurityTestingAssignment\\User.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day10Projects\\SecurityTestingAssignment\\User.cs",
+              "RelativeToolTip": "SecurityTestingAssignment\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:56:13.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day10Projects\\Log4NetDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Log4NetDemo\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day10Projects\\Log4NetDemo\\Program.cs",
+              "RelativeToolTip": "Log4NetDemo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:43:58.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day10Projects\\SecurityDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day10Projects\\SecurityDemo\\Program.cs",
+              "RelativeToolTip": "SecurityDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:47:36.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day10Projects\\EncryptDecryptDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EncryptDecryptDemo\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day10Projects\\EncryptDecryptDemo\\Program.cs",
+              "RelativeToolTip": "EncryptDecryptDemo\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:38:04.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day10Projects\\SecurityDemo\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\MainForm.Designer.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day10Projects\\SecurityDemo\\MainForm.Designer.cs",
+              "RelativeToolTip": "SecurityDemo\\MainForm.Designer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwEEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T11:13:22.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day10Projects\\SecurityDemo\\MainForm.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\MainForm.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day10Projects\\SecurityDemo\\MainForm.cs",
+              "RelativeToolTip": "SecurityDemo\\MainForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T10:30:25.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day10Projects\\SecurityDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\Form1.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day10Projects\\SecurityDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "SecurityDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T06:39:17.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day10Projects\\SecurityDemo\\MainForm.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\MainForm.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day10Projects\\SecurityDemo\\MainForm.cs [Design]",
+              "RelativeToolTip": "SecurityDemo\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T09:41:08.038Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day10Projects\\SecurityDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\Form1.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day10Projects\\SecurityDemo\\Form1.cs",
+              "RelativeToolTip": "SecurityDemo\\Form1.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T07:25:48.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day10Projects\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day10Projects\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:41:48.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\WiproDotNet\\Day10Projects\\SecurityDemo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\Form1.Designer.cs",
+              "ToolTip": "D:\\WiproDotNet\\Day10Projects\\SecurityDemo\\Form1.Designer.cs",
+              "RelativeToolTip": "SecurityDemo\\Form1.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAASwEkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T07:30:18.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

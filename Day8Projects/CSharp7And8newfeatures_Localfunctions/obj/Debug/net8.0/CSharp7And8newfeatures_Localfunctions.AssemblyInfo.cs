@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp7And8newfeatures_Localfunctions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0184986aa4c2d2e51aae114ca52f450ef90eb94")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp7And8newfeatures_Localfunctions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp7And8newfeatures_Localfunctions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,11 @@
+D:\GreatLearning4\Day9\Day9Projects\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+D:\GreatLearning4\Day9\Day9Projects\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+D:\GreatLearning4\Day9\Day9Projects\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+D:\GreatLearning4\Day9\Day9Projects\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning4\Day9\Day9Projects\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\GreatLearning4\Day9\Day9Projects\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+D:\GreatLearning4\Day9\Day9Projects\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day9\Day9Projects\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+D:\GreatLearning4\Day9\Day9Projects\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+D:\GreatLearning4\Day9\Day9Projects\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+D:\GreatLearning4\Day9\Day9Projects\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
