@@ -1,0 +1,39 @@
+<html>
+
+<head>
+    <title>the title</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" language="javascript">
+     $(document).ready(
+      function()
+      {
+      $("#button1").click(
+
+       function ()
+       {
+
+         $("#myimg").attr("src", "/smileynormal.png"); 
+
+       }
+
+
+
+      );
+
+      }
+
+
+
+
+     );
+    </script>
+</head>
+
+<body>
+    <div>
+        <img id="myimg" src="/smileyhover.png"  width="130px" height="130px" alt="Sample image" />
+        <input type="button" id="button1" value="changeimage" />
+    </div>
+</body>
+
+</html>

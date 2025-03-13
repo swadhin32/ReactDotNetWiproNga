@@ -1,0 +1,62 @@
+Normailzation 
+--------------------------------------
+Refer slides 39 to 54 in db1slides folder 
+
+Normalization :
+_______________
+
+Now first show them one slide 39 and tell this 
+
+The value of studid and studname are being repeated when he goes on passing the semesters.so there is called redundant data and this is happening while taking down marks of different semesters and suppose address of student is also there and if he changes address it has to modified in muliple rows if not done leads to inconsistency of data so due to this redundancy insertion ,deletion and update anomolies are occuring to overcome that we go for normalization process okay .
+
+Normailization : The process of decomposing relations (tables ) with anomolies to produce smaller well structured relation is called as normalization .
+
+Normal Form : A state of relation that results from applying simple rules regarding functional dependency of that relation.
+
+Functional dependency : For any relation R attribute B is functioanlly dependent on Attribute A if for every valid instance of A that value of A uniquely determines the value of B 
+
+A-->B 
+
+check slide 40 and 41  for this which contain all the examples and little bit notes as well  on this okay .
+
+Next go to slide 42 for understanding stages of normal forms okay .
+
+Normalization should be carried out for every databse which u design okay .
+
+Understanding 1NF :
+_____________________
+First Normal form says that each of your column and each of your row should contain only one value and there should be no repeating groups .
+imagine a table with Employee as per slide 43 and for each employee i have allocated an computer okay now imagine some of the employees need one system for testing and development etc sometimes they may use multiple systems as well then so i want to keep track of all the systems used by employees then couple of ways are there for doing it like slide 44 but we shoudl not do like that okay in a relational database design we are violating 1NF so each column in each row should have one and only one value okay . so solution is slide 45 but this is called as repeating groups and as we have said there should not be a repeating groups present clasic example of repating group is same name will be there but we put 1,2 etc like what we have done in slide 45 and this is fine what happens when one person is doing testing on some computer which needs to be associated with multiple computers across the network so what is the solution for this repeating group now so we can do like this in slide 46 having one to many relationships okay .so now we can see there is no repeating values and groups in either tables okay.so solution to this normalization is creation of new tables .
+
+Understanding 2NF :
+____________________
+partial dependency means one or more non key attributes are functionally dependent on part (but not all ) of primary key .so a relation is in 2NF if it is in 1NF and every non key attribute is fully functionaly dependent on primary key .we face this problem when we are using a composite primary key okay 
+
+so earlier one slide is having situation like that which can be decomed into below format 
+
+means slide 41 can be deocmed into this format below and 
+
+employee1 (empid ,name ,deptname ,salary ) 
+           _____
+		   
+		   
+emp_course (empid ,course_title ,date completed ) 
+            _____  _____________
+			
+			
+Now the table of slide 41 is in second normal form okay and same examples u can check it from slide 47 and 48 as well which defines an event table over here and finally if u are not using composite primary key u can jump directly to third normal form which we will disscussing next.
+
+
+
+
+Understanding 3NF :
+___________________
+
+Transitive dependency means functional dependency between non key attributes when u remove that the table comes into 3NF .
+
+so i am taking the same previous example here of event table now so as per the slide 48 it is first and second normal forms the couse sql101 as per the slide can be arranged in a different room which has got different capacity as well as check the slide 49 the problem is between room and capacity means if every time i am in room4a i will always have a capacity of 12 so using the room name only i should be able to figure out how much is the capacity of that room so we dont need the capacity to be stored in that table because it is dependent on room if room itself is not there means where is the question of capacity comes so now what to be done and we can chnage it as slide 50 u can convert it into like this is so it is all happening because of redundancy okay .so slide 51 is also an example of 3NF here we just remove that column as it is derived and can be computed and not stored in database okay .so this is all about 3NF 
+
+BCNF :
+_______
+
+Now 3NF is almost equal to BCNF so if every determinant is a primary key then we say it is BCNF means the table is so well structured that determinant is becoming a primary  key .

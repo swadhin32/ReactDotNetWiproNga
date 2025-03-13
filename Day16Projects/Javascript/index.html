@@ -1,0 +1,105 @@
+<html>
+
+<head>
+
+    <style>
+        h1 {
+            color: #000000;
+            font-family: verdana;
+            text-align: center;
+        }
+
+        table {
+            border-collapse: separate;
+            border-spacing: 0 15px;
+        }
+
+        th {
+            background-color: #E9EBE2;
+            color: white;
+        }
+
+        th,
+        td {
+            width: 150px;
+            text-align: center;
+            border: 1px solid black;
+            padding: 5px;
+        }
+
+        tr:hover {
+            background-color: #a1a1a1;
+        }
+
+        body {
+            background-color: #E9EBE2;
+        }
+    </style>
+
+    <script src="script.js" lang="text/javascript"></script>
+
+</head>
+
+<body>
+
+    <center>
+        <h1>ONLINE DOCTOR APPOINTMENT</h1>
+
+        <table>
+            <tr>
+                <td>Patient Name
+                <td><input type="text" name="patientname" id="patientname" required
+                        placeholder="Enter the patient name">
+            </tr>
+
+            <tr>
+                <td>Patient Age
+                <td><input type="text" name="patientage" id="patientage" required placeholder="Enter the patient age">
+            </tr>
+
+            <tr>
+                <td>Mobile Number</td>
+                <td><input type="text" name="mobile" id="mobile" required placeholder="Enter the patient mobile number">
+                </td>
+            </tr>
+
+            <tr>
+                <td>Appointment Date
+                <td><input type="date" name="appointmentdate" id="appointmentdate" required>
+            </tr>
+
+            <tr>
+                <td>Speciality
+                <td>
+                    <select name="speciality" id="speciality" required>
+                        <option value="General">General</option>
+                        <option value="Pediatrics">Pediatrics</option>
+                        <option value="ENT">ENT</option>
+                        <option value="Neurology">Neurology</option>
+                        <option value="Gastrology">Gastrology</option>
+                    </select>
+            </tr>
+
+            <tr>
+                <td>Preffered Time
+                <td>
+                    <select name="prefferedtime" id="prefferedtime" required>
+                        <option value="Morning">Morning</option>
+                        <option value="Evening">Evening</option>
+                        <option value="No Preference">No Preference</option>
+                    </select>
+            </tr>
+
+            <tr>
+                <td><input type="submit" name="submit" value="Submit" onclick="Booking()">
+            </tr>
+
+        </table>
+
+        <div id="result">
+        </div>
+
+    </center>
+</body>
+
+</html>

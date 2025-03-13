@@ -1,0 +1,815 @@
+TypeScript:
+***********
+first check typescript slide1 okay .
+and then same thing is somewhat written here explan them by putting it in one notepad.
+
+
+
+1. Typescript is a typed superset of JavaScript. JavaScript that scales. It's not replacement of JavaScript nor
+does it add any new feature of JavaScript.
+
+2. It's compiled to generate JavaScript.
+
+3. It was designed by Anders Hejlsberg (founder of C#) at Microsoft. Its open source and can be used in any
+place where we would need JavaScript.
+
+4. Its object oriented and supports core features like interfaces and classes.
+
+5. Typescript generated JavaScript can reuse all of the existing JavaScript frameworks, tools, and libraries.
+
+6. Also any valid .js file can be renamed to .ts and compiled with other Typescript files.
+
+7. The reader of this tutorial needs to have good knowledge on Object Oriented Programming and basic
+knowledge on JavaScript.
+
+8. It’s not mandatory to strongly type everything when we are type scripting.
+
+9. There are almost 40 languages which are superset of JavaScript. On which they generate .js on compiling,
+typescript is one of these languages.
+
+Few of the languages are: typescript, purescript, coffeescript, livescript
+
+
+Benefits of TypeScript:
+
+1. It compiles the code and generate syntax errors if any. This helps to highlight errors before the script is
+executed.
+
+2. Because of Object Oriented features, it's reusable and easier to manage in large and complicated
+projects.
+
+3. Angular 2 framework is written in Typescript and it’s recommended that developers use the language in
+their projects as well.
+
+4. Due to the static typing, code written in Typescript is more predictable, and is generally easier to debug.
+
+
+Now create a folder with the name typescriptdemos
+
+in this folder from the terminal install 
+
+npm install -g typescript
+
+and add one file with any name as .ts and write the code 
+
+do tsc code.ts it will create a js file after conversion in the same folder
+
+and then add one html page like this and give rerence to the file 
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TypeScript in Browser</title>
+</head>
+
+<body>
+    <script src="code2.js"></script> <!-- Reference the compiled JS file -->
+</body>
+
+</html>
+and now run the program live server so one by one change the code and see the output okay ..
+
+Program :INTRODUCTION :
+-------------------------
+
+version 1:
+-----------
+function sayHello()
+{
+	var message: string = "Hello world";
+	
+	alert(message);
+}
+
+sayHello();
+
+version 2:
+----------
+function sayHello(firstname :string ,lastname:string)
+{
+	var message: string = "Hello world";
+	message += firstname + "  " + lastname;
+	alert(message);
+}
+
+it is understood that void if u want to specify explictly then do this 
+
+sayHello("Raghavendra","Ponde");
+
+function sayHello(firstname: string, lastname: string) :void{
+	var message: string = "Hello world";
+	message += firstname + "  " + lastname;
+	alert(message);
+}
+
+sayHello("Raghavendra", "Ponde");
+
+version 3:
+----------
+function sayHello(firstname :string ,lastname:string):string
+{
+	var message: string = "Hello world";
+	message += firstname + "  " + lastname;
+	return message;
+}
+
+alert(sayHello("Raghavendra","Ponde"));
+
+
+
+version 4:
+-----------
+class Hello
+{
+	FirstName: string;
+	LastName: string;
+	sayhello = function():string
+	{
+		return "hello " + this.FirstName + " " + this.LastName;
+
+	}
+
+}
+
+var h: Hello = new Hello();
+h.FirstName = "Raghavendra";
+h.LastName = "Ponde";
+alert(h.sayhello());
+
+Note: after writing the code put debugger and implement F11 and F10 and shift F11 commands and tell them that this is not possible in javascript i have to do inspect and check in javascript unless we dont know what kind of error it is very diffcult to trace it the error means i mean to say some errors come which u dont know also and clear cut explanation of errors is not there in javascript.
+
+Go to the folder and check whether that ts file is converted into .js file or not and open it and see it all classes are converted into functions and variables types also into var type of something just analyze okay .
+
+
+
+
+Program 2:DATA TYPES 
+---------------------
+In the same program edit the code okay here we have 3 data types number,string and boolean 
+all the integer,float,double etc comes under number only okay so totally generally we have 3 data types in type script 
+
+version 1 of code :
+--------------------
+Below code shows slight difference between let and var kind of varibales okay ..
+//var number1: number = 10;
+
+//var number1: number = 20;
+
+// same thing if i do for let wont happen
+
+//let number1: number = 10;
+
+//let number1: number = 20;
+
+let x = 20;
+{
+
+	let x = 30;
+	console.log(x);
+}
+console.log(x);
+
+var x = 20;
+{
+
+	var x = 30;
+	console.log(x);
+}
+console.log(x);
+
+so from now onwards i will use more let only as i am more interested in scope okay .
+
+
+
+
+let varname: number = 10.01;
+let bln: boolean = true;
+let fullname: string = "Raghavendra Ponde";
+// can also write in double quotes 
+let fullname2: string = 'raghavendra ponde';
+// can also use appostope u can do here interpolation 
+
+let fullname3: string = `raghavendra ponde`; // In task bar touch keyboard is there show them `  where it is .
+// using interpoation
+
+
+let message = `${fullname} is having ${varname} in training and it is ${bln}`
+
+// here above i am using let u can use let also and var also both are equal 
+
+
+alert(message);
+
+// in diferent lines showing output 
+
+let message2 = "This is Line1 \
+                \nThis is Line2 \
+                \nThis is Line3\ ";
+
+alert(message2);
+
+
+let message3: string = `Hello`;
+
+let name1: string = "kiran kumar";
+
+let age: number = 34;
+
+message3 += ` ${name1} are you  ${age} years  old`;
+alert(message3);
+
+
+
+//array deceraltion 
+let lst1: number[] = [1, 2, 3, 4, 5];
+
+
+
+let lst2: Array<string> = ["1", "2", "3", "4", "5"];
+
+let rolst: ReadonlyArray<number> = lst1;
+
+// rolst[0] = 12;// error i will get here as read only
+
+// tuple decleration
+
+let x: [number,string] = [10,'kiran'];
+// x=['kiran',10]// error as order is important
+alert(x[0]);
+
+let x1: [number, string] = [29, "Raghu"];
+
+let message3: string = `The name with ${x1[1]} is ${x1[0]} years old `;
+
+alert(message3);
+
+// enaum example
+enum color { red, green, yellow };
+let c = color.green;
+
+alert(c);
+// another data type which is any 
+let unknown: any = 10;
+unknown += " raghavendra Ponde ";
+unknown += false;
+
+alert(unknown)
+
+// now we have to check what is difference between null and undefined okay ..
+
+let variable: string;
+alert(variable);
+
+//above varibale is not intilized so it is now undefined showing
+
+// now same type of program now but explcitly i am saying null  setting it 
+// so here null and undefined are values okay they contain..
+
+let variable2: string;
+variable2 = null;
+alert(variable2);
+
+// some comparison can be done like below
+// means i have got some value it is my wish i may compare it with null or undefined keywords okay 
+
+let v: number;
+if (v == undefined) {
+    v = 100;
+}
+//v = null;
+alert(v);
+
+// in certain special cases we can declare type inferecnes like below 
+
+let kk = 10;
+let value = "kirankumar";
+
+// above i have not used any data types okay ...
+
+// now typecasting
+
+// here only any data type it can be applied 
+
+let vk: any = 10;
+let somevalue: string = <string>vk;// angular syntax 
+somevalue = vk as string;// as syntax both will give the same value okay
+alert(vk)
+
+// above i can use any value in any data type false ,string as raghu it works 
+// and if null applied first angular syntax gives error and second syntax gives me 
+// value assigned as null okay 
+
+
+// now difference between var and let let us see 
+
+//so let is block scope variable and var is not u can declare same
+//varible as many number of times u want it will not give any error
+
+var kk1: number = 10;
+var kk1: number = 20;
+alert(kk1);
+
+//same above code above code if u give let it gives error ]
+//let kk2: number = 10;
+//let kk2: number = 20;
+//alert(kk2);
+
+// now another example on let and var 
+
+let message5: string = "hello";
+if (true)
+{
+    let messag5: string = "world";
+}
+
+alert(message5);// here output is hello
+
+var message6: string = "hello";
+if (true) {
+    var messag6: string = "world";
+}
+
+alert(message6);// here world so that  is the difference 
+// for loop different usage 
+
+let lst8: string[] = ["A", "B", "C", "D"]
+
+for (let s1 in lst8) {
+    alert(s1 + "-->" + lst8[s1]);
+}
+
+for (let s1 of lst8) {
+    alert(s1);
+}
+
+
+
+Program 3: DESTRUCTURING 
+------------------------
+
+version 1:destructing array and regular expressions :
+--------------------------------------------------------
+let input: number[] = [1, 2];
+//let first: number = input[0];
+//let second: number = input[1];
+
+let [first, second] = input;
+//alert(first + " " + second);
+
+//let [n1, ...rest] = [1, 2, 3, 4, 5];//i am using inference type on earlier i didnt used 
+//alert(n1);
+//alert(rest);
+
+//let [n1, n2, ...rest] = [1, 2, 3, 4, 5]
+
+//alert(n1);
+//alert(n2);
+//alert(rest);
+
+	//let [m1] = [1, 2, 3, 4, 5]
+
+	//alert(m1);// here m1 value is assinged ....to 1 and rest is ignored ..
+
+
+//let [, , m3, m4] = [1, 2, 3, 4, 5, 6];
+//alert(m3 + " " + m4) // here based on comma value m3 is assigned 3 and m4 as 4 and remaing all frint and last values are ignored 
+
+
+// here if i declare an array or tuple like this 
+
+let [year, month, day] = ['2021'];
+
+// here above it is giving error to me it is telling me other value not asssinged 
+
+// so first value is for that year only ..
+
+// in the same manner 
+
+
+
+//let [totaldate, year, month, day] = /^(\d\d\d\d)-(\d\d)-(\d\d)$/.exec('2017-07-01')
+//alert(totaldate + " " + year + " " + month + " " + day);
+
+// check the following codes and check the difference 
+
+let [totaldate, totaldate2, year, month, day] = /^(\d\d\d\d)-(\d\d)-(\d\d)$/.exec('2017-07-01')
+alert(totaldate + " " + totaldate2+" " + year + " " + month + " " + day);
+
+
+
+version 2 :destrucing the object :
+-----------------------------------
+This is the way to declare object in js or typescript i didnt taught u in js how to create objects and classes in js also 
+we create like this only why i didnt tell means because js does not support oops concepts and all okay ..
+
+
+let Ob = {
+	a: "foo",
+	b: 12,
+	c:"bar"
+}
+
+so here a,b,c are three properties of an object see that this is not tuple here it is in array but these are classes and like classes how different kind of properties i can define i can in the same manner definning properties okay .
+
+
+
+let {a,b} = Ob;
+alert(a + " " + b);
+//remanming and once changed then it has stored in A and B okay ..
+// we can say it as property renaming 
+//let { a: A, b: B } = Ob;
+//alert(A + " " + B);
+
+//let { a, ...rest } = Ob;
+
+//alert(a + " " + rest.b + " " + rest.c);
+
+// nested destructuring
+
+//let user = {
+//	deaprtment: "Software",
+//	Name: "Raghavendra ",
+//	favouritecricketer: {
+//		first: {
+//			name: "sachin",
+//			comment: "Fine batsman"
+//		},
+//		second: {
+//			name: "Dhoni",
+//			comment: "Excellent wicketkeeper"
+//		}
+//	}
+//}
+
+//let { favouritecricketer: { first:First,second:Second} } = user;
+
+//alert(First.name + " " + First.comment)
+//alert(Second.name + " " +Second.comment)
+
+
+let users = [{ department: "DP1", name: "ramesh" }, { department: "DP2", name: "ramesh2" },
+	{ department: "DP3", name: "ramesh3" }]
+
+for (var { name: n, department: dept } of users) {
+
+	console.log("Name :" + n + " ,Deparment" + dept);
+
+}
+
+
+
+version 3: named and optional paramters :
+------------------------------------------
+
+A function is there in this an object of p is going which is having property string and one number 
+
+so this is the way to code this okay and this is version 1 of the concept 
+
+
+function foo(p1: { a: string, b: number })
+{
+	let { a, b } = p1;
+	alert(a + " " + b);
+}
+
+
+foo({a:"A",b:10})
+
+so here every thing  works fine 
+
+
+//foo({ a: "A" });// error so put on top as optional putting question mark which is givenfor two varibales 
+
+
+function foo(p1: { a?: string, b?: number })
+{
+	let { a, b } = p1;
+	alert(a + " " + b);
+}
+
+
+foo({a:"A"})
+
+
+//foo({})// so for both question mark working but 
+
+it is working fine and both i am getting as undefined okay 
+
+function foo(p1: { a?: string, b?: number })
+{
+	let { a="X", b=100 } = p1;
+	alert(a + " " + b);
+}
+
+
+foo({})
+
+i had provided in let a as "x" and b as 100 okay so now works well okay 
+
+// further simplification of code can be done like this 
+
+
+//type C = { a?: string, b?: number }
+
+//function foo(p1:C)
+//{
+//	let { a="X", b=100 } = p1;
+//	alert(a + " " + b);
+//}
+
+
+// in the below code i am using destructing in foo1 itlsef so no need of let okay ..like that it goes 
+
+//function foo1({ a, b } = { a: " ", b: 0 })
+//{
+//	alert(a+" "+b)
+//}
+
+version 4: spreads :
+---------------------
+
+//let a1 = [1, 2, 3] 
+//let a2 = [4, 5, 6]
+
+//let a12 = [0, ...a1, ...a2, 7];
+//alert(a12);
+
+above i am spreading the array into another array okay ..to keep three dot syntax has to be used so it is very short cut syntax to join two arrays okay .
+
+Now let us see how to spread the object now 
+
+//let obs1 = { p1: "p1", p2: 10, p3: true };
+////let obs2 = { ...obs1, p4: 100 }
+
+//let obs2 = { ...obs1, p3: 20}
+////alert(obs2.p1 + " " + obs2.p2 + "  " + obs2.p3 + " " + obs2.p4) //here just keep obs2. automatically obs1 properties also // it will show to me it is from right to left so one time 100 and next time 10 it will show okay ...
+//let obs3 = { p3:12, ...obs1 };
+//alert(obs2.p1 + " " + obs2.p2 + "  " + obs2.p3);
+//alert(obs3.p1 + " " + obs3.p2 + "  " + obs3.p3);
+
+
+Program 4: CLASSES:
+-------------------
+
+version 1 :
+-----------
+class Person
+{
+	FirstName: string
+	LastName: string
+	DateOfBirth: Date
+
+	show()
+	{
+		alert(`${this.FirstName}  ${this.LastName} ${this.DateOfBirth}`);
+	}
+
+
+}
+
+let p: Person = new Person();
+p.FirstName = "Raghavendra";
+p.LastName = "Ponde";
+p.DateOfBirth = new Date(1982, 8, 7);
+p.show();
+
+
+version 2 with constuctor usage 
+--------------------------------
+class Person
+{
+	firstName: string;
+	lastName: string;
+	dateOfBirth: Date;
+	constructor(FirstName: string, LastName: string, DateOfBirth: Date) 
+	{
+		this.firstName = FirstName;
+		this.lastName = LastName;
+		this.dateOfBirth = DateOfBirth;
+	}
+	
+	Show() :string
+	{
+		return (`${this.firstName} ${this.lastName} ${this.dateOfBirth} `)
+	}
+}
+
+let p: Person = new Person("Raghavendra", "Ponde", new Date(1982, 7, 7));
+
+p.Show();
+
+version 3 of program with inheritance :
+---------------------------------------
+class Person
+{
+	FirstName: string
+	LastName: string
+	DateOfBirth: Date
+	constructor(firstName: string, lastName: string, dateofBirth: Date)
+	{
+		this.FirstName = firstName;
+		this.LastName = lastName;
+		this.DateOfBirth = dateofBirth;
+	}
+	show() :string
+	{
+		return `${this.FirstName}  ${this.LastName} ${this.DateOfBirth}`;
+	}
+
+
+}
+
+let p: Person = new Person("Raghavendra", "Ponde", new Date(1982, 7, 7));
+
+p.show();
+
+
+class Employee extends Person {
+	departmentName: string;
+	salary: number;
+	constructor(FirstName: string, LastName: string, DateOfBirth: Date,
+		DepartmentName: string, Salary: number) {
+		super(FirstName, LastName, DateOfBirth)
+		this.departmentName = DepartmentName;
+		this.salary = Salary;
+	}
+
+	Show(): string {
+		let s: string = super.show();
+		s += `${this.departmentName}  ${this.salary}`
+		return s;
+	}
+
+}
+
+let p3: Person = new Employee("Raghavendra", "Ponde", new
+	Date(1982, 7, 7), "Training", 10000);
+
+alert(p3.show());
+
+
+version 4 with absctract classes usage :
+----------------------------------------
+abstract class Figure {
+	protected Dimension: number
+	public abstract Area(): number
+}
+
+class Circle extends Figure {
+	constructor(radius: number) {
+		super();
+		this.Dimension = radius;
+	}
+	public Area(): number {
+		return Math.PI * this.Dimension * this.Dimension;
+	}
+}
+
+class Square extends Figure {
+	constructor(side: number) {
+		super();
+		this.Dimension = side;
+	}
+	public Area(): number {
+		return this.Dimension * this.Dimension;
+	}
+}
+
+var fig: Figure = new Circle(10);
+alert(fig.Area());
+fig = new Square(12);
+alert(fig.Area());
+
+Note : codes extra u can find in deccansoft pdfs where videos are there there only code is available okay ..
+
+
+
+Program 5 : INTERFACES
+-----------------------
+
+interface IPoint {
+	X: number;
+	Y: number;
+	DistanceFromOrigin(): number;
+	DistanceFromPoint(point: IPoint): number;
+}
+
+class Point implements IPoint {
+	X: number;
+	Y: number;
+	constructor(x: number, y: number) {
+		this.X = x;
+		this.Y = y;
+	};
+	DistanceFromOrigin(): number {
+		return Math.sqrt((this.X * this.X) + (this.Y * this.Y));
+	};
+	DistanceFromPoint(point: IPoint): number {
+		return Math.sqrt(((point.X - this.X) * (point.X - this.X)) +
+			((point.Y - this.Y) * (point.Y - this.Y)));
+	};
+
+}
+
+var pt1: Point = new Point(12, 4);
+var pt2: Point = new Point(14, 67);
+
+alert(pt1.DistanceFromOrigin());
+alert(pt1.DistanceFromPoint(pt2));
+
+
+only one version of program is enough 
+
+program 6:FUNCTIONS
+--------------------
+function Add(a: number, b: number,c?:number)
+{
+	if (!c)
+	{
+		c = 0;
+
+	}
+	return a + b+c;
+}
+function Add2(a: number, b: number, c: number = 0)
+{
+	
+	return a + b + c;
+}
+
+function Add3(a: number=0, b: number, c: number )
+{
+
+	return a + b + c;
+}
+This kind of functionality i have used in spread programming and all okay...and we call it as rest kind of syntax over here okay .
+function Add4(...numbers: number[])
+{
+	let x: number = 0;
+	for (var i = 0; i < numbers.length; i++)
+	{
+		x += numbers[i];
+	}
+	return x;
+
+}
+
+function Add5(n:number, ...numbers: number[]) {
+	let x: number = 0;
+	for (var i = 0; i < numbers.length; i++) {
+		x += numbers[i];
+	}
+	return x;
+
+}
+alert(Add(10, 20))
+alert(Add(10, 20, 30))
+
+alert(Add2(10, 20))
+alert(Add2(10, 20, 30))
+
+alert(Add3(undefined,10,20))
+alert(Add3(10, 20, 30))
+
+
+alert(Add4(10, 20, 30, 40))
+alert(Add4(undefined, 10, 30))
+alert(Add4(10, 1, 2, 3, 5))
+
+// function overloading
+
+function add(x: string, y: string): string;
+function add(x: number, y: number): number;
+//function add(x: boolean, y: string): number;
+
+// Implementation ...u should be able to implement the logic inside the function okay ...
+
+function add(x,y): any
+{
+	if (typeof x == "number")
+		return x + y;
+	else
+		return x + " " + y;
+
+};
+
+alert(add(10, 20))
+alert(add("X", "Y"))
+alert(add(true,"B")) // will give error here as there is no function with that signatue defined 
+
+
+
+// fucntion types 
+
+let sub: (x: number, y: number)=> number;
+
+// here also i am implmenting function but as a type one kind of data type okay..
+sub = function (x, y)
+{
+	return x - y;
+}
+
+

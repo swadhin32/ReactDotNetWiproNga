@@ -1,0 +1,71 @@
+/* Set base font size for rem calculation */
+html {
+    font-size: 16px;
+    /* 1rem = 16px */
+}
+
+/* Full viewport height section */
+.hero-section {
+    width: 100vw;
+    /* Full viewport width */
+    height: 100vh;
+    /* Full viewport height */
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding: 2rem;
+    /* Scales with base font size */
+}
+
+/* Heading using rem */
+h1 {
+    font-size: 3rem;
+    /* 3 * 16px = 48px */
+    margin-bottom: 1rem;
+}
+
+/* Paragraph using em (relative to its parent) */
+p {
+    font-size: 1.2em;
+    /* 1.2 times the parent’s font-size */
+}
+
+/* Button using em (scales with its text) */
+.btn {
+    font-size: 1.5em;
+    /* Scales with the parent */
+    padding: 0.5em 1.5em;
+    background-color: white;
+    color: #ff7e5f;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background-color: #feb47b;
+}
+
+/* Section using vh/vw */
+.content {
+    width: 80vw;
+    /* 80% of the viewport width */
+    height: 50vh;
+    /* 50% of the viewport height */
+    background-color: #f4f4f4;
+    margin: 2rem auto;
+    padding: 2rem;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Scaled text */
+.text {
+    font-size: 1.2em;
+    /* Scales based on parent */
+}
